@@ -1,0 +1,3576 @@
+{
+  "entidades_federales": [
+    {
+      "codigo": "01",
+      "nombre": "Distrito Capital",
+      "capital": "Caracas",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Bolivariano Libertador",
+          "capital": "Caracas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Altagracia", "capital": "Caracas"},
+            {"codigo": "02", "nombre": "Antímano", "capital": "Caracas"},
+            {"codigo": "03", "nombre": "Candelaria", "capital": "Caracas"},
+            {"codigo": "04", "nombre": "Caricuao", "capital": "Caracas"},
+            {"codigo": "05", "nombre": "Catedral", "capital": "Caracas"},
+            {"codigo": "06", "nombre": "Coche", "capital": "Caracas"},
+            {"codigo": "07", "nombre": "El Junquito", "capital": "Caracas"},
+            {"codigo": "08", "nombre": "El Paraíso", "capital": "Caracas"},
+            {"codigo": "09", "nombre": "El Recreo", "capital": "Caracas"},
+            {"codigo": "10", "nombre": "El Valle", "capital": "Caracas"},
+            {"codigo": "11", "nombre": "La Pastora", "capital": "Caracas"},
+            {"codigo": "12", "nombre": "La Vega", "capital": "Caracas"},
+            {"codigo": "13", "nombre": "Macarao", "capital": "Caracas"},
+            {"codigo": "14", "nombre": "San Agustín", "capital": "Caracas"},
+            {"codigo": "15", "nombre": "San Bernardino", "capital": "Caracas"},
+            {"codigo": "16", "nombre": "San José", "capital": "Caracas"},
+            {"codigo": "17", "nombre": "San Juan", "capital": "Caracas"},
+            {"codigo": "18", "nombre": "San Pedro", "capital": "Caracas"},
+            {"codigo": "19", "nombre": "Santa Rosalía", "capital": "Caracas"},
+            {"codigo": "20", "nombre": "Santa Teresa", "capital": "Caracas"},
+            {"codigo": "21", "nombre": "Sucre", "capital": "Caracas"},
+            {"codigo": "22", "nombre": "23 de Enero", "capital": "Caracas"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "02",
+      "nombre": "Amazonas",
+      "capital": "Puerto Ayacucho",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Autónomo Alto Orinoco",
+          "capital": "La Esmeralda",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Huachamacare", "capital": "Acanaña"},
+            {"codigo": "02", "nombre": "Marawaka", "capital": "Toky-Shamanaña"},
+            {"codigo": "03", "nombre": "Mavaca", "capital": "Mavaca"},
+            {"codigo": "04", "nombre": "Sierra Parima", "capital": "Parimabé"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Autónomo Atabapo",
+          "capital": "San Fernando de Atabapo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ucata", "capital": "Laja Lisa"},
+            {"codigo": "02", "nombre": "Yapacana", "capital": "Macuruco"},
+            {"codigo": "03", "nombre": "Caname", "capital": "Guarinuma"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Autónomo Atures",
+          "capital": "Puerto Ayacucho",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Fernando Girón Tovar", "capital": "Puerto Ayacucho"},
+            {"codigo": "02", "nombre": "Luis Alberto Gómez", "capital": "Puerto Ayacucho"},
+            {"codigo": "03", "nombre": "Parhueña", "capital": "Limón de Parhueña"},
+            {"codigo": "04", "nombre": "Platanillal", "capital": "Platanillal"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Autónomo Autana",
+          "capital": "Isla Ratón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Samariapo", "capital": "Samariapo"},
+            {"codigo": "02", "nombre": "Sipapo", "capital": "Pendare"},
+            {"codigo": "03", "nombre": "Munduapo", "capital": "Munduapo"},
+            {"codigo": "04", "nombre": "Guayapo", "capital": "San Pedro del Orinoco"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Autónomo Maroa",
+          "capital": "Maroa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Victorino", "capital": "Victorino"},
+            {"codigo": "02", "nombre": "Comunidad", "capital": "Comunidad"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Autónomo Manapiare",
+          "capital": "San Juan de Manapiare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Alto Ventuari", "capital": "Cacuri"},
+            {"codigo": "02", "nombre": "Medio Ventuari", "capital": "Camani"},
+            {"codigo": "03", "nombre": "Bajo Ventuari", "capital": "Marueta"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Autónomo Río Negro",
+          "capital": "San Carlos de Río Negro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Solano", "capital": "Solano"},
+            {"codigo": "02", "nombre": "Casiquiare", "capital": "Curimacare"},
+            {"codigo": "03", "nombre": "Cocuy", "capital": "Santa Lucía"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "03",
+      "nombre": "Anzoátegui",
+      "capital": "Barcelona",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Anaco",
+          "capital": "Anaco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Anaco", "capital": "Anaco"},
+            {"codigo": "02", "nombre": "San Joaquín", "capital": "San Joaquín"},
+            {"codigo": "03", "nombre": "Buena Vista", "capital": "Buena Vista"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Aragua",
+          "capital": "Aragua de Barcelona",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Aragua", "capital": "Aragua de Barcelona"},
+            {"codigo": "02", "nombre": "Cachipo", "capital": "Cachipo"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Fernando de Peñalver",
+          "capital": "Puerto Píritu",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Fernando de Peñalver", "capital": "Puerto Píritu"},
+            {"codigo": "02", "nombre": "San Miguel", "capital": "San Miguel"},
+            {"codigo": "03", "nombre": "Sucre", "capital": "El Hatillo"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Francisco del Carmen Carvajal",
+          "capital": "Valle de Guanape",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Francisco del Carmen Carvajal", "capital": "Valle de Guanape"},
+            {"codigo": "02", "nombre": "Santa Bárbara", "capital": "Santa Bárbara"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Francisco de Miranda",
+          "capital": "Pariaguán",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Francisco de Miranda", "capital": "Pariaguán"},
+            {"codigo": "02", "nombre": "Atapirire", "capital": "Atapirire"},
+            {"codigo": "03", "nombre": "Boca del Pao", "capital": "Boca del Pao"},
+            {"codigo": "04", "nombre": "El Pao", "capital": "El Pao de Barcelona"},
+            {"codigo": "05", "nombre": "Múcura", "capital": "Múcura"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Guanta",
+          "capital": "Guanta",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guanta", "capital": "Guanta"},
+            {"codigo": "02", "nombre": "Chorrerón", "capital": "Pertigalete"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Independencia",
+          "capital": "Soledad",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Independencia", "capital": "Soledad"},
+            {"codigo": "02", "nombre": "Mamo", "capital": "Carapa"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Juan Antonio Sotillo",
+          "capital": "Puerto La Cruz",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Puerto La Cruz", "capital": "Puerto La Cruz"},
+            {"codigo": "02", "nombre": "Pozuelos", "capital": "Pozuelos"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Juan Manuel Cajigal",
+          "capital": "Onoto",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Juan Manuel Cajigal", "capital": "Onoto"},
+            {"codigo": "02", "nombre": "San Pablo", "capital": "San Pablo"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "José Gregorio Monagas",
+          "capital": "Mapire",
+          "parroquias": [
+            {"codigo": "01", "nombre": "José Gregorio Monagas", "capital": "Mapire"},
+            {"codigo": "02", "nombre": "Piar", "capital": "Santa Cruz de Orinoco"},
+            {"codigo": "03", "nombre": "San Diego de Cabrutica", "capital": "San Diego de Cabrutica"},
+            {"codigo": "04", "nombre": "Santa Clara", "capital": "Santa Clara"},
+            {"codigo": "05", "nombre": "Uverito", "capital": "Uverito"},
+            {"codigo": "06", "nombre": "Zuata", "capital": "Zuata"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Libertad",
+          "capital": "San Mateo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertad", "capital": "San Mateo"},
+            {"codigo": "02", "nombre": "El Carito", "capital": "El Carito"},
+            {"codigo": "03", "nombre": "Santa Inés", "capital": "Santa Inés"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Manuel Ezequiel Bruzual",
+          "capital": "Clarines",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Manuel Ezequiel Bruzual", "capital": "Clarines"},
+            {"codigo": "02", "nombre": "Guanape", "capital": "Guanape"},
+            {"codigo": "03", "nombre": "Sabana de Uchire", "capital": "Sabana de Uchire"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Pedro María Fréites",
+          "capital": "Cantaura",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pedro María Fréites", "capital": "Cantaura"},
+            {"codigo": "02", "nombre": "Libertador", "capital": "Mundo Nuevo"},
+            {"codigo": "03", "nombre": "Santa Rosa", "capital": "Santa Rosa"},
+            {"codigo": "04", "nombre": "Urica", "capital": "Urica"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Píritu",
+          "capital": "Píritu",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Capital Píritu", "capital": "Píritu"},
+            {"codigo": "02", "nombre": "San Francisco", "capital": "San Francisco"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "San José de Guanipa",
+          "capital": "San José de Guanipa (El Tigrito)",
+          "parroquias": []
+        },
+        {
+          "codigo": "16",
+          "nombre": "San Juan de Capistrano",
+          "capital": "Boca de Uchire",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Juan de Capistrano", "capital": "Boca de Uchire"},
+            {"codigo": "02", "nombre": "Boca de Chávez", "capital": "Boca de Chávez"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "Santa Ana",
+          "capital": "Santa Ana",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Ana", "capital": "Santa Ana"},
+            {"codigo": "02", "nombre": "Pueblo Nuevo", "capital": "Pueblo Nuevo"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Simón Bolívar",
+          "capital": "Barcelona",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Carmen", "capital": "Barcelona"},
+            {"codigo": "02", "nombre": "San Cristóbal", "capital": "Barcelona"},
+            {"codigo": "03", "nombre": "Bergantín", "capital": "Bergantín"},
+            {"codigo": "04", "nombre": "Caigua", "capital": "Caigua"},
+            {"codigo": "05", "nombre": "El Pilar", "capital": "El Pilar"},
+            {"codigo": "06", "nombre": "Naricual", "capital": "Naricual"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "Simón Rodríguez",
+          "capital": "El Tigre",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Edmundo Barrios", "capital": "El Tigre"},
+            {"codigo": "02", "nombre": "Miguel Otero Silva", "capital": "El Tigre"}
+          ]
+        },
+        {
+          "codigo": "20",
+          "nombre": "Sir Arthur Mc Gregor",
+          "capital": "El Chaparro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sir Arthur Mc Gregor", "capital": "El Chaparro"},
+            {"codigo": "02", "nombre": "Tomás Alfaro Calatrava", "capital": "José Gregorio Monagas"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Diego Bautista Urbaneja",
+          "capital": "Lecherías",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Diego Bautista Urbaneja", "capital": "Lecherías"},
+            {"codigo": "02", "nombre": "El Morro", "capital": "Lecherías"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "04",
+      "nombre": "Apure",
+      "capital": "San Fernando",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Achaguas",
+          "capital": "Achaguas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urbana", "capital": "Achaguas"},
+            {"codigo": "02", "nombre": "Apurito", "capital": "Apurito"},
+            {"codigo": "03", "nombre": "El Yagual", "capital": "El Yagual"},
+            {"codigo": "04", "nombre": "Guachara", "capital": "Guachara"},
+            {"codigo": "05", "nombre": "Mucuritas", "capital": "El Samán de Apure"},
+            {"codigo": "06", "nombre": "Queseras del Medio", "capital": "Guasimal"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Biruaca",
+          "capital": "Biruaca",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urbana Biruaca", "capital": "Biruaca"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Muñoz",
+          "capital": "Bruzual",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urbana", "capital": "Bruzual"},
+            {"codigo": "02", "nombre": "Mantecal", "capital": "Mantecal"},
+            {"codigo": "03", "nombre": "Quintero", "capital": "Quintero"},
+            {"codigo": "04", "nombre": "Rincón Hondo", "capital": "La Estacada"},
+            {"codigo": "05", "nombre": "San Vicente", "capital": "San Vicente"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Páez",
+          "capital": "Guasdualito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urbana", "capital": "Guasdualito"},
+            {"codigo": "02", "nombre": "Aramendi", "capital": "Palmarito"},
+            {"codigo": "03", "nombre": "El Amparo", "capital": "El Amparo"},
+            {"codigo": "04", "nombre": "San Camilo", "capital": "El Nula"},
+            {"codigo": "05", "nombre": "Urdaneta", "capital": "La Victoria"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Pedro Camejo",
+          "capital": "San Juan de Payara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Juan de Payara", "capital": "San Juan de Payara"},
+            {"codigo": "02", "nombre": "Codazzi", "capital": "Puerto Páez"},
+            {"codigo": "03", "nombre": "Cunaviche", "capital": "San Miguel de Cunaviche"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Rómulo Gallegos",
+          "capital": "Elorza",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urbana", "capital": "Elorza"},
+            {"codigo": "02", "nombre": "La Trinidad", "capital": "La Trinidad de Orichuna"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "San Fernando de Apure",
+          "capital": "San Fernando de Apure",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Fernando", "capital": "San Fernando de Apure"},
+            {"codigo": "02", "nombre": "El Recreo", "capital": "El Recreo"},
+            {"codigo": "03", "nombre": "Peñalver", "capital": "Arichuna"},
+            {"codigo": "04", "nombre": "San Rafael de Atamaica", "capital": "San Rafael de Atamaica"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "05",
+      "nombre": "Aragua",
+      "capital": "Maracay",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Bolívar",
+          "capital": "San Mateo",
+          "parroquias": []
+        },
+        {
+          "codigo": "02",
+          "nombre": "Camatagua",
+          "capital": "Camatagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Camatagua", "capital": "Camatagua"},
+            {"codigo": "02", "nombre": "Carmen de Cura", "capital": "Carmen de Cura"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Girardot",
+          "capital": "Maracay",
+          "parroquias": [
+            {"codigo": "02", "nombre": "Choroní", "capital": "Choroní"},
+            {"codigo": "03", "nombre": "Las Delicias", "capital": "Maracay"},
+            {"codigo": "04", "nombre": "Madre María de San José", "capital": "Maracay"},
+            {"codigo": "05", "nombre": "Joaquín Crespo", "capital": "Maracay"},
+            {"codigo": "06", "nombre": "Pedro José Ovalles", "capital": "Maracay"},
+            {"codigo": "07", "nombre": "José Casanova Godoy", "capital": "Maracay"},
+            {"codigo": "08", "nombre": "Andrés Eloy Blanco", "capital": "Maracay"},
+            {"codigo": "09", "nombre": "Los Tacariguas", "capital": "Maracay"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "José Ángel Lamas",
+          "capital": "Santa Cruz",
+          "parroquias": []
+        },
+        {
+          "codigo": "05",
+          "nombre": "José Félix Ribas",
+          "capital": "La Victoria",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Juan Vicente Bolívar y Ponte", "capital": "La Victoria"},
+            {"codigo": "02", "nombre": "Castor Nieves Ríos", "capital": "Las Mercedes"},
+            {"codigo": "03", "nombre": "Las Guacamayas", "capital": "Las Guacamayas"},
+            {"codigo": "04", "nombre": "Pao de Zárate", "capital": "Pao de Zárate"},
+            {"codigo": "05", "nombre": "Zuata", "capital": "Zuata"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "José Rafael Revenga",
+          "capital": "El Consejo",
+          "parroquias": []
+        },
+        {
+          "codigo": "07",
+          "nombre": "Libertador",
+          "capital": "Palo Negro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertador", "capital": "Palo Negro"},
+            {"codigo": "02", "nombre": "San Martín de Porres", "capital": "La Pica"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Mario Briceño Iragorry",
+          "capital": "El Limón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Mario Briceño Iragorry", "capital": "El Limón"},
+            {"codigo": "02", "nombre": "Caña de Azúcar", "capital": "Caña de Azúcar"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "San Casimiro",
+          "capital": "San Casimiro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Casimiro", "capital": "San Casimiro"},
+            {"codigo": "02", "nombre": "Güiripa", "capital": "Güiripa"},
+            {"codigo": "03", "nombre": "Ollas de Caramacate", "capital": "Ollas de Caramacate"},
+            {"codigo": "04", "nombre": "Valle Morín", "capital": "Valle Morín"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "San Sebastián",
+          "capital": "San Sebastián de Los Reyes",
+          "parroquias": []
+        },
+        {
+          "codigo": "11",
+          "nombre": "Santiago Mariño",
+          "capital": "Turmero",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santiago Mariño", "capital": "Turmero"},
+            {"codigo": "02", "nombre": "Arévalo Aponte", "capital": "Rosario de Paya"},
+            {"codigo": "03", "nombre": "Chuao", "capital": "Chuao"},
+            {"codigo": "04", "nombre": "Samán de Güere", "capital": "19 de Abril"},
+            {"codigo": "05", "nombre": "Alfredo Pacheco Miranda", "capital": "San Joaquín"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Santos Michelena",
+          "capital": "Las Tejerías",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santos Michelena", "capital": "Las Tejerías"},
+            {"codigo": "02", "nombre": "Tiara", "capital": "Tiara"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Sucre",
+          "capital": "Cagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sucre", "capital": "Cagua"},
+            {"codigo": "02", "nombre": "Bella Vista", "capital": "Bella Vista"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Tovar",
+          "capital": "La Colonia Tovar",
+          "parroquias": []
+        },
+        {
+          "codigo": "15",
+          "nombre": "Urdaneta",
+          "capital": "Barbacoas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urdaneta", "capital": "Barbacoas"},
+            {"codigo": "02", "nombre": "Las Peñitas", "capital": "Las Peñitas"},
+            {"codigo": "03", "nombre": "San Francisco de Cara", "capital": "San Francisco de Cara"},
+            {"codigo": "04", "nombre": "Taguay", "capital": "Taguay"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "Zamora",
+          "capital": "Villa de Cura",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Zamora", "capital": "Villa de Cura"},
+            {"codigo": "02", "nombre": "Magdaleno", "capital": "Magdaleno"},
+            {"codigo": "03", "nombre": "San Francisco de Asís", "capital": "San Francisco de Asís"},
+            {"codigo": "04", "nombre": "Valles de Tucutunemo", "capital": "Los Bagres"},
+            {"codigo": "05", "nombre": "Augusto Mijares", "capital": "Tocorón"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "Francisco Linares Alcántara",
+          "capital": "Santa Rita",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Francisco Linares Alcántara", "capital": "Santa Rita"},
+            {"codigo": "02", "nombre": "Francisco de Miranda", "capital": "Francisco de Miranda"},
+            {"codigo": "03", "nombre": "Monseñor Feliciano González", "capital": "Paraparal"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Ocumare de La Costa de Oro",
+          "capital": "Ocumare de la Costa",
+          "parroquias": []
+        }
+      ]
+    },
+    {
+      "codigo": "06",
+      "nombre": "Barinas",
+      "capital": "Barinas",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Alberto Arvelo Torrealba",
+          "capital": "Sabaneta",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Parroquia Sabaneta", "capital": "Sabaneta"},
+            {"codigo": "02", "nombre": "Parroquia Rodríguez Domínguez", "capital": "Veguitas"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Antonio José de Sucre",
+          "capital": "Socopó",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ticoporo", "capital": "Socopó"},
+            {"codigo": "02", "nombre": "Andrés Bello", "capital": "Bum-Bum"},
+            {"codigo": "03", "nombre": "Nicolás Pulido", "capital": "Chameta"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Arismendi",
+          "capital": "Arismendi",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Arismendi", "capital": "Arismendi"},
+            {"codigo": "02", "nombre": "Guadarrama", "capital": "Guadarrama"},
+            {"codigo": "03", "nombre": "La Unión", "capital": "La Unión"},
+            {"codigo": "04", "nombre": "San Antonio", "capital": "San Antonio"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Barinas",
+          "capital": "Barinas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Barinas", "capital": "Barinas"},
+            {"codigo": "02", "nombre": "Alfredo Arvelo Larriva", "capital": "Quebrada Seca"},
+            {"codigo": "03", "nombre": "San Silvestre", "capital": "San Silvestre"},
+            {"codigo": "04", "nombre": "Santa Inés", "capital": "Santa Inés"},
+            {"codigo": "05", "nombre": "Santa Lucía", "capital": "Santa Lucía"},
+            {"codigo": "06", "nombre": "Torunos", "capital": "Torunos"},
+            {"codigo": "07", "nombre": "El Carmen", "capital": "Barinas"},
+            {"codigo": "08", "nombre": "Don Rómulo Betancourt", "capital": "Barinas"},
+            {"codigo": "09", "nombre": "Corazón de Jesús", "capital": "Barinas"},
+            {"codigo": "10", "nombre": "Ramón Ignacio Méndez", "capital": "Barinas"},
+            {"codigo": "11", "nombre": "Alto Barinas", "capital": "Barinas"},
+            {"codigo": "12", "nombre": "Manuel Palacio Fajardo", "capital": "La Caramuca"},
+            {"codigo": "13", "nombre": "Juan Antonio Rodríguez Domínguez", "capital": "El Corozo"},
+            {"codigo": "14", "nombre": "Dominga Ortiz de Páez", "capital": "La Mula"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Bolívar",
+          "capital": "Barinitas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Barinitas", "capital": "Barinitas"},
+            {"codigo": "02", "nombre": "Altamira", "capital": "Altamira"},
+            {"codigo": "03", "nombre": "Calderas", "capital": "Calderas"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Cruz Paredes",
+          "capital": "Barrancas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Barrancas", "capital": "Barrancas"},
+            {"codigo": "02", "nombre": "El Socorro", "capital": "La Yuca"},
+            {"codigo": "03", "nombre": "Masparrito", "capital": "Masparrito"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Ezequiel Zamora",
+          "capital": "Santa Bárbara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Bárbara", "capital": "Santa Bárbara"},
+            {"codigo": "02", "nombre": "José Ignacio del Pumar", "capital": "Pedraza La Vieja"},
+            {"codigo": "03", "nombre": "Pedro Briceño Méndez", "capital": "Capitanejo"},
+            {"codigo": "04", "nombre": "Ramón Ignacio Méndez", "capital": "Punta de Piedra"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Obispos",
+          "capital": "Obispos",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Obispos", "capital": "Obispos"},
+            {"codigo": "02", "nombre": "El Real", "capital": "El Real"},
+            {"codigo": "03", "nombre": "La Luz", "capital": "La Luz"},
+            {"codigo": "04", "nombre": "Los Guasimitos", "capital": "Los Guasimitos"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Pedraza",
+          "capital": "Ciudad Bolivia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ciudad Bolivia", "capital": "Ciudad Bolivia"},
+            {"codigo": "02", "nombre": "Ignacio Briceño", "capital": "Maporal"},
+            {"codigo": "03", "nombre": "José Félix Ribas", "capital": "Curbatí"},
+            {"codigo": "04", "nombre": "Páez", "capital": "San Rafael de Canaguá"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Rojas",
+          "capital": "Libertad",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertad", "capital": "Libertad"},
+            {"codigo": "02", "nombre": "Dolores", "capital": "Dolores"},
+            {"codigo": "03", "nombre": "Palacios Fajardo", "capital": "Mijagual"},
+            {"codigo": "04", "nombre": "Santa Rosa", "capital": "Santa Rosa"},
+            {"codigo": "05", "nombre": "Simón Rodríguez", "capital": "Arauquita"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Sosa",
+          "capital": "Ciudad de Nutrias",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ciudad de Nutrias", "capital": "Ciudad de Nutrias"},
+            {"codigo": "02", "nombre": "El Regalo", "capital": "El Regalo"},
+            {"codigo": "03", "nombre": "Puerto de Nutrias", "capital": "Puerto de Nutrias"},
+            {"codigo": "04", "nombre": "Santa Catalina", "capital": "Santa Catalina"},
+            {"codigo": "05", "nombre": "Simón Bolívar", "capital": "Las Casitas del Vegón de Nutrias"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Andrés Eloy Blanco",
+          "capital": "El Cantón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Cantón", "capital": "El Cantón"},
+            {"codigo": "02", "nombre": "Santa Cruz de Guacas", "capital": "Santa Cruz de Guacas"},
+            {"codigo": "03", "nombre": "Puerto Vivas", "capital": "Puerto Vivas"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "07",
+      "nombre": "Bolívar",
+      "capital": "Ciudad Bolívar",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Caroní",
+          "capital": "Ciudad Guayana",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cachamay", "capital": "Ciudad Guayana"},
+            {"codigo": "02", "nombre": "Chirica", "capital": "Ciudad Guayana"},
+            {"codigo": "03", "nombre": "Dalla Costa", "capital": "Ciudad Guayana"},
+            {"codigo": "04", "nombre": "Once de Abril", "capital": "Ciudad Guayana"},
+            {"codigo": "05", "nombre": "Simón Bolívar", "capital": "Ciudad Guayana"},
+            {"codigo": "06", "nombre": "Unare", "capital": "Ciudad Guayana"},
+            {"codigo": "07", "nombre": "Universidad", "capital": "Ciudad Guayana"},
+            {"codigo": "08", "nombre": "Vista al Sol", "capital": "Ciudad Guayana"},
+            {"codigo": "09", "nombre": "Pozo Verde", "capital": "Pozo Verde"},
+            {"codigo": "10", "nombre": "Yocoima", "capital": "El Rosario"},
+            {"codigo": "11", "nombre": "Cinco de Julio", "capital": "Moruca"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Cedeño",
+          "capital": "Caicara del Orinoco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Cedeño", "capital": "Caicara del Orinoco"},
+            {"codigo": "02", "nombre": "Altagracia", "capital": "Las Bonitas"},
+            {"codigo": "03", "nombre": "Ascensión Farreras", "capital": "Santa Rosalía"},
+            {"codigo": "04", "nombre": "Guaniamo", "capital": "El Milagro"},
+            {"codigo": "05", "nombre": "La Urbana", "capital": "La Urbana"},
+            {"codigo": "06", "nombre": "Pijiguaos", "capital": "Morichalito"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "El Callao",
+          "capital": "El Callao",
+          "parroquias": []
+        },
+        {
+          "codigo": "04",
+          "nombre": "Gran Sabana",
+          "capital": "Santa Elena de Uairén",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Gran Sabana", "capital": "Santa Elena de Uairén"},
+            {"codigo": "02", "nombre": "Ikabarú", "capital": "Ikabarú"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Heres",
+          "capital": "Ciudad Bolívar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Agua Salada", "capital": "Ciudad Bolívar"},
+            {"codigo": "02", "nombre": "Catedral", "capital": "Ciudad Bolívar"},
+            {"codigo": "03", "nombre": "José Antonio Páez", "capital": "Ciudad Bolívar"},
+            {"codigo": "04", "nombre": "La Sabanita", "capital": "Ciudad Bolívar"},
+            {"codigo": "05", "nombre": "Marhuanta", "capital": "Ciudad Bolívar"},
+            {"codigo": "06", "nombre": "Vista Hermosa", "capital": "Ciudad Bolívar"},
+            {"codigo": "07", "nombre": "Orinoco", "capital": "Almacén"},
+            {"codigo": "08", "nombre": "Panapana", "capital": "San José de Bongo"},
+            {"codigo": "09", "nombre": "Zea", "capital": "La Carolina"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Piar",
+          "capital": "Upata",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Piar", "capital": "Upata"},
+            {"codigo": "02", "nombre": "Andrés Eloy Blanco", "capital": "El Pao de El Hierro"},
+            {"codigo": "03", "nombre": "Pedro Cova", "capital": "El Manteco"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Bolivariano Angostura",
+          "capital": "Ciudad Piar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Angostura", "capital": "Ciudad Piar"},
+            {"codigo": "02", "nombre": "Barceloneta", "capital": "La Paragua"},
+            {"codigo": "03", "nombre": "San Francisco", "capital": "San Francisco"},
+            {"codigo": "04", "nombre": "Santa Bárbara", "capital": "Santa Bárbara de Centurión"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Roscio",
+          "capital": "Guasipati",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Roscio", "capital": "Guasipati"},
+            {"codigo": "02", "nombre": "Salom", "capital": "El Miamo"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Sifontes",
+          "capital": "Tumeremo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Sifontes", "capital": "Tumeremo"},
+            {"codigo": "02", "nombre": "Dalla Costa", "capital": "El Dorado"},
+            {"codigo": "03", "nombre": "San Isidro", "capital": "Las Claritas"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Sucre",
+          "capital": "Maripa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sección Capital Sucre", "capital": "Maripa"},
+            {"codigo": "02", "nombre": "Aripao", "capital": "Aripao"},
+            {"codigo": "03", "nombre": "Guarataro", "capital": "Guarataro"},
+            {"codigo": "04", "nombre": "Las Majadas", "capital": "Las Majadas"},
+            {"codigo": "05", "nombre": "Moitaco", "capital": "Moitaco"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Padre Pedro Chien",
+          "capital": "El Palmar",
+          "parroquias": []
+        }
+      ]
+    },
+    {
+      "codigo": "08",
+      "nombre": "Carabobo",
+      "capital": "Valencia",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Bejuma",
+          "capital": "Bejuma",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bejuma", "capital": "Bejuma"},
+            {"codigo": "02", "nombre": "Canoabo", "capital": "Canoabo"},
+            {"codigo": "03", "nombre": "Simón Bolívar", "capital": "Chirgua"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Carlos Arvelo",
+          "capital": "Güigüe",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Güigüe", "capital": "Güigüe"},
+            {"codigo": "02", "nombre": "Belén", "capital": "Belén"},
+            {"codigo": "03", "nombre": "Tacarigua Central", "capital": "Tacarigua"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Diego Ibarra",
+          "capital": "Mariara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Aguas Calientes", "capital": "Mariara"},
+            {"codigo": "02", "nombre": "Mariara", "capital": "Mariara"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Guacara",
+          "capital": "Guacara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ciudad Alianza", "capital": "Guacara"},
+            {"codigo": "02", "nombre": "Guacara", "capital": "Guacara"},
+            {"codigo": "03", "nombre": "Yagua", "capital": "Yagua"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Juan José Mora",
+          "capital": "Morón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Morón", "capital": "Morón"},
+            {"codigo": "02", "nombre": "Urama", "capital": "Urama"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Libertador",
+          "capital": "Tocuyito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tocuyito", "capital": "Tocuyito"},
+            {"codigo": "02", "nombre": "Independencia", "capital": "Tocuyito"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Los Guayos",
+          "capital": "Los Guayos",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Los Guayos", "capital": "Los Guayos"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Miranda",
+          "capital": "Miranda",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Miranda", "capital": "Miranda"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Montalbán",
+          "capital": "Montalbán",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Montalbán", "capital": "Montalbán"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Naguanagua",
+          "capital": "Naguanagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Naguanagua", "capital": "Naguanagua"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Puerto Cabello",
+          "capital": "Puerto Cabello",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bartolomé Salom", "capital": "Puerto Cabello"},
+            {"codigo": "02", "nombre": "Democracia", "capital": "Puerto Cabello"},
+            {"codigo": "03", "nombre": "Fraternidad", "capital": "Puerto Cabello"},
+            {"codigo": "04", "nombre": "Goaigoaza", "capital": "Puerto Cabello"},
+            {"codigo": "05", "nombre": "Juan José Flores", "capital": "Puerto Cabello"},
+            {"codigo": "06", "nombre": "Unión", "capital": "Puerto Cabello"},
+            {"codigo": "07", "nombre": "Borburata", "capital": "Borburata"},
+            {"codigo": "08", "nombre": "Patanemo", "capital": "Patanemo"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "San Diego",
+          "capital": "San Diego",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Diego", "capital": "San Diego"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "San Joaquín",
+          "capital": "San Joaquín",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Joaquín", "capital": "San Joaquín"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Valencia",
+          "capital": "Valencia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Candelaria", "capital": "Valencia"},
+            {"codigo": "02", "nombre": "Catedral", "capital": "Valencia"},
+            {"codigo": "03", "nombre": "El Socorro", "capital": "Valencia"},
+            {"codigo": "04", "nombre": "Miguel Peña", "capital": "Valencia"},
+            {"codigo": "05", "nombre": "Rafael Urdaneta", "capital": "Valencia"},
+            {"codigo": "06", "nombre": "San Blas", "capital": "Valencia"},
+            {"codigo": "07", "nombre": "San José", "capital": "Valencia"},
+            {"codigo": "08", "nombre": "Santa Rosa", "capital": "Valencia"},
+            {"codigo": "09", "nombre": "Negro Primero", "capital": "Los Naranjos"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "09",
+      "nombre": "Cojedes",
+      "capital": "San Carlos",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Anzoátegui",
+          "capital": "Cojedes",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cojedes", "capital": "Cojedes"},
+            {"codigo": "02", "nombre": "Juan de Mata Suárez", "capital": "Apartaderos"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Tinaquillo",
+          "capital": "Tinaquillo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tinaquillo", "capital": "Tinaquillo"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Girardot",
+          "capital": "El Baúl",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Baúl", "capital": "El Baúl"},
+            {"codigo": "02", "nombre": "Sucre", "capital": "Sucre"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Lima Blanco",
+          "capital": "Macapo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Macapo", "capital": "Macapo"},
+            {"codigo": "02", "nombre": "La Aguadita", "capital": "La Aguadita"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Pao de San Juan Bautista",
+          "capital": "El Pao",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Pao", "capital": "El Pao"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Ricaurte",
+          "capital": "Libertad",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertad de Cojedes", "capital": "Libertad"},
+            {"codigo": "02", "nombre": "El Amparo", "capital": "El Amparo"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Rómulo Gallegos",
+          "capital": "Las Vegas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Rómulo Gallegos", "capital": "Las Vegas"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Ezequiel Zamora",
+          "capital": "San Carlos",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Carlos de Austria", "capital": "San Carlos"},
+            {"codigo": "02", "nombre": "Juan Ángel Bravo", "capital": "La Sierra"},
+            {"codigo": "03", "nombre": "Manuel Manrique", "capital": "Manrique"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Tinaco",
+          "capital": "Tinaco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "G/J José Laurencio Silva", "capital": "Tinaco"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "10",
+      "nombre": "Delta Amacuro",
+      "capital": "Tucupita",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Antonio Díaz",
+          "capital": "Curiapo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Curiapo", "capital": "Curiapo"},
+            {"codigo": "02", "nombre": "Almirante Luis Brión", "capital": "Manoa"},
+            {"codigo": "03", "nombre": "Francisco Aniceto Lugo", "capital": "Boca de Cuyubini"},
+            {"codigo": "04", "nombre": "Manuel Renaud", "capital": "Araguabisi"},
+            {"codigo": "05", "nombre": "Padre Barral", "capital": "San Francisco de Guayo"},
+            {"codigo": "06", "nombre": "Santos de Abelgas", "capital": "Araguaimujo"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Casacoima",
+          "capital": "Sierra Imataca",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Imataca", "capital": "Sierra Imataca"},
+            {"codigo": "02", "nombre": "Cinco de Julio", "capital": "La Masa de Moriche"},
+            {"codigo": "03", "nombre": "Juan Bautista Arismendi", "capital": "Piacoa"},
+            {"codigo": "04", "nombre": "Manuel Piar", "capital": "El Triunfo"},
+            {"codigo": "05", "nombre": "Rómulo Gallegos", "capital": "Santa Catalina"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Pedernales",
+          "capital": "Pedernales",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pedernales", "capital": "Pedernales"},
+            {"codigo": "02", "nombre": "Luis Beltrán Prieto", "capital": "Figueroa Capure"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Tucupita",
+          "capital": "Tucupita",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San José", "capital": "Tucupita"},
+            {"codigo": "02", "nombre": "José Vidal Marcano", "capital": "Hacienda del Medio"},
+            {"codigo": "03", "nombre": "Juan Millán", "capital": "Carapal de Guara"},
+            {"codigo": "04", "nombre": "Leonardo Ruíz Pineda", "capital": "Leonardo Ruíz Pineda"},
+            {"codigo": "05", "nombre": "Mariscal Antonio José de Sucre", "capital": "Paloma"},
+            {"codigo": "06", "nombre": "Monseñor Argimiro García", "capital": "Delfín Mendoza"},
+            {"codigo": "07", "nombre": "San Rafael", "capital": "San Rafael"},
+            {"codigo": "08", "nombre": "Virgen del Valle", "capital": "La Horqueta"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "11",
+      "nombre": "Falcón",
+      "capital": "Santa Ana de Coro",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Acosta",
+          "capital": "San Juan de los Cayos",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Juan de los Cayos", "capital": "San Juan de los Cayos"},
+            {"codigo": "02", "nombre": "Capadare", "capital": "Capadare"},
+            {"codigo": "03", "nombre": "La Pastora", "capital": "La Pastora"},
+            {"codigo": "04", "nombre": "Libertador", "capital": "El Mene de San Lorenzo"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Bolívar",
+          "capital": "San Luis",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Luis", "capital": "San Luis"},
+            {"codigo": "02", "nombre": "Aracua", "capital": "Aracua"},
+            {"codigo": "03", "nombre": "La Peña", "capital": "La Peña"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Buchivacoa",
+          "capital": "Capatárida",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Capatárida", "capital": "Capatárida"},
+            {"codigo": "02", "nombre": "Bariro", "capital": "Bariro"},
+            {"codigo": "03", "nombre": "Borojó", "capital": "Borojó"},
+            {"codigo": "04", "nombre": "Guajiro", "capital": "Guajiro"},
+            {"codigo": "05", "nombre": "Seque", "capital": "San José de Seque"},
+            {"codigo": "06", "nombre": "Zazárida", "capital": "Zazárida"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Cacique Manaure",
+          "capital": "Yaracal",
+          "parroquias": []
+        },
+        {
+          "codigo": "05",
+          "nombre": "Carirubana",
+          "capital": "Punto Fijo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Carirubana", "capital": "Punto Fijo"},
+            {"codigo": "02", "nombre": "Norte", "capital": "Punto Fijo"},
+            {"codigo": "03", "nombre": "Punta Cardón", "capital": "Punta Cardón"},
+            {"codigo": "04", "nombre": "Santa Ana", "capital": "Santa Ana"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Colina",
+          "capital": "La Vela de Coro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "La Vela de Coro", "capital": "La Vela de Coro"},
+            {"codigo": "02", "nombre": "Acurigua", "capital": "Acurigua"},
+            {"codigo": "03", "nombre": "Guaibacoa", "capital": "Guaibacoa"},
+            {"codigo": "04", "nombre": "Las Calderas", "capital": "Las Calderas"},
+            {"codigo": "05", "nombre": "Macoruca", "capital": "El Moyepo"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Dabajuro",
+          "capital": "Dabajuro",
+          "parroquias": []
+        },
+        {
+          "codigo": "08",
+          "nombre": "Democracia",
+          "capital": "Pedregal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pedregal", "capital": "Pedregal"},
+            {"codigo": "02", "nombre": "Agua Clara", "capital": "El Manantial (Agua Clara)"},
+            {"codigo": "03", "nombre": "Avaria", "capital": "Tupure"},
+            {"codigo": "04", "nombre": "Piedra Grande", "capital": "Piedra Grande"},
+            {"codigo": "05", "nombre": "Purureche", "capital": "Purureche"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Falcón",
+          "capital": "Pueblo Nuevo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pueblo Nuevo", "capital": "Pueblo Nuevo"},
+            {"codigo": "02", "nombre": "Adícora", "capital": "Adícora"},
+            {"codigo": "03", "nombre": "Baraived", "capital": "Baraived"},
+            {"codigo": "04", "nombre": "Buena Vista", "capital": "Buena Vista"},
+            {"codigo": "05", "nombre": "Jadacaquiva", "capital": "Jadacaquiva"},
+            {"codigo": "06", "nombre": "Moruy", "capital": "Moruy"},
+            {"codigo": "07", "nombre": "Adaure", "capital": "Adaure"},
+            {"codigo": "08", "nombre": "El Hato", "capital": "El Hato"},
+            {"codigo": "09", "nombre": "El Vínculo", "capital": "El Vínculo"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Federación",
+          "capital": "Churuguara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Churuguara", "capital": "Churuguara"},
+            {"codigo": "02", "nombre": "Agua Larga", "capital": "Agua Larga"},
+            {"codigo": "03", "nombre": "El Paují", "capital": "El Paují"},
+            {"codigo": "04", "nombre": "Independencia", "capital": "El Tupí"},
+            {"codigo": "05", "nombre": "Mapararí", "capital": "Mapararí"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Jacura",
+          "capital": "Jacura",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Jacura", "capital": "Jacura"},
+            {"codigo": "02", "nombre": "Agua Linda", "capital": "Agua Linda"},
+            {"codigo": "03", "nombre": "Araurima", "capital": "Araurima"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Los Taques",
+          "capital": "Santa Cruz de Los Taques",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Los Taques", "capital": "Santa Cruz de Los Taques"},
+            {"codigo": "02", "nombre": "Judibana", "capital": "Judibana"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Mauroa",
+          "capital": "Mene de Mauroa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Mene de Mauroa", "capital": "Mene de Mauroa"},
+            {"codigo": "02", "nombre": "Casigua", "capital": "Casigua"},
+            {"codigo": "03", "nombre": "San Félix", "capital": "San Félix"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Miranda",
+          "capital": "Santa Ana de Coro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Antonio", "capital": "Santa Ana de Coro"},
+            {"codigo": "02", "nombre": "San Gabriel", "capital": "Santa Ana de Coro"},
+            {"codigo": "03", "nombre": "Santa Ana", "capital": "Santa Ana de Coro"},
+            {"codigo": "04", "nombre": "Guzmán Guillermo", "capital": "La Negrita"},
+            {"codigo": "05", "nombre": "Mitare", "capital": "Mitare"},
+            {"codigo": "06", "nombre": "Río Seco", "capital": "Río Seco"},
+            {"codigo": "07", "nombre": "Sabaneta", "capital": "Sabaneta"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Monseñor Iturriza",
+          "capital": "Chichiriviche",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Chichiriviche", "capital": "Chichiriviche"},
+            {"codigo": "02", "nombre": "Boca de Tocuyo", "capital": "Boca de Tocuyo"},
+            {"codigo": "03", "nombre": "Tocuyo de la Costa", "capital": "Tocuyo de La Costa"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "Palmasola",
+          "capital": "Palmasola",
+          "parroquias": []
+        },
+        {
+          "codigo": "17",
+          "nombre": "Petit",
+          "capital": "Cabure",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cabure", "capital": "Cabure"},
+            {"codigo": "02", "nombre": "Colina", "capital": "Pueblo Nuevo de la Sierra"},
+            {"codigo": "03", "nombre": "Curimagua", "capital": "Curimagua"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Píritu",
+          "capital": "Píritu",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Píritu", "capital": "Píritu"},
+            {"codigo": "02", "nombre": "San José de la Costa", "capital": "San José de la Costa"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "San Francisco",
+          "capital": "Mirimire",
+          "parroquias": []
+        },
+        {
+          "codigo": "20",
+          "nombre": "Silva",
+          "capital": "Tucacas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tucacas", "capital": "Tucacas"},
+            {"codigo": "02", "nombre": "Boca de Aroa", "capital": "Boca de Aroa"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Sucre",
+          "capital": "La Cruz de Taratara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sucre", "capital": "La Cruz de Taratara"},
+            {"codigo": "02", "nombre": "Pecaya", "capital": "Pecaya"}
+          ]
+        },
+        {
+          "codigo": "22",
+          "nombre": "Tocópero",
+          "capital": "Tocópero",
+          "parroquias": []
+        },
+        {
+          "codigo": "23",
+          "nombre": "Unión",
+          "capital": "Santa Cruz de Bucaral",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Cruz de Bucaral", "capital": "Santa Cruz de Bucaral"},
+            {"codigo": "02", "nombre": "El Charal", "capital": "El Charal"},
+            {"codigo": "03", "nombre": "Las Vegas del Tuy", "capital": "Las Vegas del Tuy"}
+          ]
+        },
+        {
+          "codigo": "24",
+          "nombre": "Urumaco",
+          "capital": "Urumaco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Urumaco", "capital": "Urumaco"},
+            {"codigo": "02", "nombre": "Bruzual", "capital": "San José de Bruzual"}
+          ]
+        },
+        {
+          "codigo": "25",
+          "nombre": "Zamora",
+          "capital": "Puerto Cumarebo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Puerto Cumarebo", "capital": "Puerto Cumarebo"},
+            {"codigo": "02", "nombre": "La Ciénaga", "capital": "La Ciénaga"},
+            {"codigo": "03", "nombre": "La Soledad", "capital": "La Soledad"},
+            {"codigo": "04", "nombre": "Pueblo Cumarebo", "capital": "Pueblo Cumarebo"},
+            {"codigo": "05", "nombre": "Zazárida", "capital": "Zazárida"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12",
+      "nombre": "Guárico",
+      "capital": "San Juan de Los Morros",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Camaguán",
+          "capital": "Camaguán",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Camaguán", "capital": "Camaguán"},
+            {"codigo": "02", "nombre": "Puerto Miranda", "capital": "Puerto Miranda"},
+            {"codigo": "03", "nombre": "Uverito", "capital": "Uverito"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Chaguaramas",
+          "capital": "Chaguaramas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Chaguaramas", "capital": "Chaguaramas"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "El Socorro",
+          "capital": "El Socorro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Socorro", "capital": "El Socorro"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "San Gerónimo de Guayabal",
+          "capital": "Guayabal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Gerónimo de Guayabal", "capital": "Guayabal"},
+            {"codigo": "02", "nombre": "Cazorla", "capital": "Cazorla"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Leonardo Infante",
+          "capital": "Valle de La Pascua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Capital Valle de La Pascua", "capital": "Valle de La Pascua"},
+            {"codigo": "02", "nombre": "Espino", "capital": "Espino"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Las Mercedes",
+          "capital": "Las Mercedes",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Las Mercedes", "capital": "Las Mercedes"},
+            {"codigo": "02", "nombre": "Cabruta", "capital": "Cabruta"},
+            {"codigo": "03", "nombre": "Santa Rita de Manapire", "capital": "Santa Rita"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Julián Mellado",
+          "capital": "El Sombrero",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Sombrero", "capital": "El Sombrero"},
+            {"codigo": "02", "nombre": "Sosa", "capital": "Sosa"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Francisco de Miranda",
+          "capital": "Calabozo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Calabozo", "capital": "Calabozo"},
+            {"codigo": "02", "nombre": "El Calvario", "capital": "El Calvario"},
+            {"codigo": "03", "nombre": "El Rastro", "capital": "El Rastro"},
+            {"codigo": "04", "nombre": "Guardatinajas", "capital": "Guardatinajas"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "José Tadeo Monagas",
+          "capital": "Altagracia de Orituco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Altagracia de Orituco", "capital": "Altagracia de Orituco"},
+            {"codigo": "02", "nombre": "Lezama", "capital": "Lezama"},
+            {"codigo": "03", "nombre": "Libertad de Orituco", "capital": "Libertad de Orituco"},
+            {"codigo": "04", "nombre": "Paso Real de Macaira", "capital": "Paso Real de Macaira"},
+            {"codigo": "05", "nombre": "San Francisco de Macaira", "capital": "San Francisco de Macaira"},
+            {"codigo": "06", "nombre": "San Rafael de Orituco", "capital": "San Rafael de Orituco"},
+            {"codigo": "07", "nombre": "Soublette", "capital": "Sabana Grande de Orituco"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Ortiz",
+          "capital": "Ortiz",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ortiz", "capital": "Ortiz"},
+            {"codigo": "02", "nombre": "San Francisco de Tiznado", "capital": "San Francisco de Tiznado"},
+            {"codigo": "03", "nombre": "San José de Tiznado", "capital": "San José de Tiznado"},
+            {"codigo": "04", "nombre": "San Lorenzo de Tiznado", "capital": "La Unión de Canuto"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "José Félix Ribas",
+          "capital": "Tucupido",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tucupido", "capital": "Tucupido"},
+            {"codigo": "02", "nombre": "San Rafael de Laya", "capital": "San Rafael de Laya"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Juan Germán Roscio",
+          "capital": "San Juan de los Morros",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Juan de Los Morros", "capital": "San Juan de los Morros"},
+            {"codigo": "02", "nombre": "Cantagallo", "capital": "Cantagallo"},
+            {"codigo": "03", "nombre": "Parapara", "capital": "Parapara"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "San José de Guaribe",
+          "capital": "San José de Guaribe",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San José de Guaribe", "capital": "San José de Guaribe"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Santa María de Ipire",
+          "capital": "Santa María de Ipire",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa María de Ipire", "capital": "Santa María de Ipire"},
+            {"codigo": "02", "nombre": "Altamira", "capital": "Altamira"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Pedro Zaraza",
+          "capital": "Zaraza",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Zaraza", "capital": "Zaraza"},
+            {"codigo": "02", "nombre": "San José de Unare", "capital": "San José de Unare"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13",
+      "nombre": "Lara",
+      "capital": "Barquisimeto",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Andrés Eloy Blanco",
+          "capital": "Sanare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pío Tamayo", "capital": "Sanare"},
+            {"codigo": "02", "nombre": "Quebrada Honda de Guache", "capital": "La Bucarita"},
+            {"codigo": "03", "nombre": "Yacambú", "capital": "La Escalera"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Crespo",
+          "capital": "Duaca",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Fréitez", "capital": "Duaca"},
+            {"codigo": "02", "nombre": "José María Blanco", "capital": "El Eneal"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Iribarren",
+          "capital": "Barquisimeto",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Catedral", "capital": "Barquisimeto"},
+            {"codigo": "02", "nombre": "Concepción", "capital": "Barquisimeto"},
+            {"codigo": "03", "nombre": "El Cují", "capital": "Barquisimeto"},
+            {"codigo": "04", "nombre": "Juan de Villegas", "capital": "Barquisimeto"},
+            {"codigo": "05", "nombre": "Santa Rosa", "capital": "Barquisimeto"},
+            {"codigo": "06", "nombre": "Tamaca", "capital": "Barquisimeto"},
+            {"codigo": "07", "nombre": "Unión", "capital": "Barquisimeto"},
+            {"codigo": "08", "nombre": "Aguedo Felipe Alvarado", "capital": "Bobare"},
+            {"codigo": "09", "nombre": "Buena Vista", "capital": "Buena Vista"},
+            {"codigo": "10", "nombre": "Juárez", "capital": "Río Claro"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Jiménez",
+          "capital": "Quíbor",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Juan Bautista Rodríguez", "capital": "Quíbor"},
+            {"codigo": "02", "nombre": "Cuara", "capital": "Cuara"},
+            {"codigo": "03", "nombre": "Diego de Lozada", "capital": "Cubiro"},
+            {"codigo": "04", "nombre": "Paraíso de San José", "capital": "Agua Negra"},
+            {"codigo": "05", "nombre": "San Miguel", "capital": "San Miguel"},
+            {"codigo": "06", "nombre": "Tintorero", "capital": "Tintorero"},
+            {"codigo": "07", "nombre": "José Bernardo Dorante", "capital": "El Hato"},
+            {"codigo": "08", "nombre": "Coronel Mariano Peraza", "capital": "La Ceiba"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Morán",
+          "capital": "El Tocuyo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bolívar", "capital": "El Tocuyo"},
+            {"codigo": "02", "nombre": "Anzoátegui", "capital": "Anzoátegui"},
+            {"codigo": "03", "nombre": "Guarico", "capital": "Guarico"},
+            {"codigo": "04", "nombre": "Hilario Luna y Luna", "capital": "Villanueva"},
+            {"codigo": "05", "nombre": "Humocaro Alto", "capital": "Humocaro Alto"},
+            {"codigo": "06", "nombre": "Humocaro Bajo", "capital": "Humocaro Bajo"},
+            {"codigo": "07", "nombre": "La Candelaria", "capital": "Guaitó"},
+            {"codigo": "08", "nombre": "Morán", "capital": "Barbacoas"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Palavecino",
+          "capital": "Cabudare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cabudare", "capital": "Cabudare"},
+            {"codigo": "02", "nombre": "José Gregorio Bastidas", "capital": "Los Rastrojos"},
+            {"codigo": "03", "nombre": "Agua Viva", "capital": "Agua Viva"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Simón Planas",
+          "capital": "Sarare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sarare", "capital": "Sarare"},
+            {"codigo": "02", "nombre": "Buría", "capital": "Manzanita"},
+            {"codigo": "03", "nombre": "Gustavo Vegas León", "capital": "La Miel"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Torres",
+          "capital": "Carora",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Trinidad Samuel", "capital": "Carora"},
+            {"codigo": "02", "nombre": "Antonio Díaz", "capital": "Curarigua"},
+            {"codigo": "03", "nombre": "Camacaro", "capital": "Río Tocuyo"},
+            {"codigo": "04", "nombre": "Castañeda", "capital": "Atarigua"},
+            {"codigo": "05", "nombre": "Cecilio Zubillaga", "capital": "La Pastora"},
+            {"codigo": "06", "nombre": "Chiquinquirá", "capital": "Aregue"},
+            {"codigo": "07", "nombre": "El Blanco", "capital": "Quebrada Arriba"},
+            {"codigo": "08", "nombre": "Espinoza de los Monteros", "capital": "Arenales"},
+            {"codigo": "09", "nombre": "Lara", "capital": "San Pedro"},
+            {"codigo": "10", "nombre": "Las Mercedes", "capital": "Burere"},
+            {"codigo": "11", "nombre": "Manuel Morillo", "capital": "El Empedrado"},
+            {"codigo": "12", "nombre": "Montaña Verde", "capital": "Palmarito"},
+            {"codigo": "13", "nombre": "Montes de Oca", "capital": "San Francisco"},
+            {"codigo": "14", "nombre": "Torres", "capital": "El Jabón"},
+            {"codigo": "15", "nombre": "Heriberto Arroyo", "capital": "El Paradero"},
+            {"codigo": "16", "nombre": "Reyes Vargas", "capital": "Parapara"},
+            {"codigo": "17", "nombre": "Altagracia", "capital": "Altagracia"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Urdaneta",
+          "capital": "Siquisique",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Siquisique", "capital": "Siquisique"},
+            {"codigo": "02", "nombre": "Moroturo", "capital": "Santa Inés"},
+            {"codigo": "03", "nombre": "San Miguel", "capital": "Aguada Grande"},
+            {"codigo": "04", "nombre": "Xaguas", "capital": "Baragua"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "14",
+      "nombre": "Mérida",
+      "capital": "Mérida",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Alberto Adriani",
+          "capital": "El Vigía",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Presidente Betancourt", "capital": "El Vigía"},
+            {"codigo": "02", "nombre": "Presidente Páez", "capital": "El Vigía"},
+            {"codigo": "03", "nombre": "Presidente Rómulo Gallegos", "capital": "El Vigía"},
+            {"codigo": "04", "nombre": "Gabriel Picón González", "capital": "La Palmita"},
+            {"codigo": "05", "nombre": "Héctor Amable Mora", "capital": "Mucujepe"},
+            {"codigo": "06", "nombre": "José Nucete Sardi", "capital": "Los Naranjos"},
+            {"codigo": "07", "nombre": "Pulido Méndez", "capital": "La Blanca (12 de Octubre)"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Andrés Bello",
+          "capital": "La Azulita",
+          "parroquias": []
+        },
+        {
+          "codigo": "03",
+          "nombre": "Antonio Pinto Salinas",
+          "capital": "Santa Cruz de Mora",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Capital Antonio Pinto Salinas", "capital": "Santa Cruz de Mora"},
+            {"codigo": "02", "nombre": "Mesa Bolívar", "capital": "Mesa Bolívar"},
+            {"codigo": "03", "nombre": "Mesa de Las Palmas", "capital": "Mesa de las Palmas"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Aricagua",
+          "capital": "Aricagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Aricagua", "capital": "Aricagua"},
+            {"codigo": "02", "nombre": "San Antonio", "capital": "Campo Elías"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Arzobispo Chacón",
+          "capital": "Canaguá",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Arzobispo Chacón", "capital": "Canaguá"},
+            {"codigo": "02", "nombre": "Capurí", "capital": "Capurí"},
+            {"codigo": "03", "nombre": "Chacantá", "capital": "Chacantá"},
+            {"codigo": "04", "nombre": "El Molino", "capital": "El Molino"},
+            {"codigo": "05", "nombre": "Guaimaral", "capital": "El Viento"},
+            {"codigo": "06", "nombre": "Mucutuy", "capital": "Mucutuy"},
+            {"codigo": "07", "nombre": "Mucuchachí", "capital": "Mucuchachí"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Campo Elías",
+          "capital": "Ejido",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Fernández Peña", "capital": "Ejido"},
+            {"codigo": "02", "nombre": "Matriz", "capital": "Ejido"},
+            {"codigo": "03", "nombre": "Montalbán", "capital": "Ejido"},
+            {"codigo": "04", "nombre": "Acequias", "capital": "Acequias"},
+            {"codigo": "05", "nombre": "Jají", "capital": "Jají"},
+            {"codigo": "06", "nombre": "La Mesa", "capital": "La Mesa"},
+            {"codigo": "07", "nombre": "San José del Sur", "capital": "San José"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Caracciolo Parra Olmedo",
+          "capital": "Tucaní",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Caracciolo Parra Olmedo", "capital": "Tucaní"},
+            {"codigo": "02", "nombre": "Florencio Ramírez", "capital": "El Pinar"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Cardenal Quintero",
+          "capital": "Santo Domingo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cardenal Quintero", "capital": "Santo Domingo"},
+            {"codigo": "02", "nombre": "Las Piedras", "capital": "Las Piedras"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Guaraque",
+          "capital": "Guaraque",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guaraque", "capital": "Guaraque"},
+            {"codigo": "02", "nombre": "Mesa de Quintero", "capital": "Mesa de Quintero"},
+            {"codigo": "03", "nombre": "Río Negro", "capital": "Río Negro"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Julio César Salas",
+          "capital": "Arapuey",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Julio César Salas", "capital": "Arapuey"},
+            {"codigo": "02", "nombre": "Palmira", "capital": "San José de Palmira"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Justo Briceño",
+          "capital": "Torondoy",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Justo Briceño", "capital": "Torondoy"},
+            {"codigo": "02", "nombre": "San Cristóbal de Torondoy", "capital": "San Cristóbal de Torondoy"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Libertador",
+          "capital": "Mérida",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Antonio Spinetti Dini", "capital": "Mérida"},
+            {"codigo": "02", "nombre": "Arias", "capital": "Mérida"},
+            {"codigo": "03", "nombre": "Caracciolo Parra Pérez", "capital": "Mérida"},
+            {"codigo": "04", "nombre": "Domingo Peña", "capital": "Mérida"},
+            {"codigo": "05", "nombre": "El Llano", "capital": "Mérida"},
+            {"codigo": "06", "nombre": "Gonzalo Picón Febres", "capital": "Mérida"},
+            {"codigo": "07", "nombre": "Jacinto Plaza", "capital": "Mérida"},
+            {"codigo": "08", "nombre": "Juan Rodríguez Suárez", "capital": "Mérida"},
+            {"codigo": "09", "nombre": "Lasso de la Vega", "capital": "Mérida"},
+            {"codigo": "10", "nombre": "Mariano Picón Salas", "capital": "Mérida"},
+            {"codigo": "11", "nombre": "Milla", "capital": "Mérida"},
+            {"codigo": "12", "nombre": "Osuna Rodríguez", "capital": "Mérida"},
+            {"codigo": "13", "nombre": "Sagrario", "capital": "Mérida"},
+            {"codigo": "14", "nombre": "El Morro", "capital": "El Morro"},
+            {"codigo": "15", "nombre": "Los Nevados", "capital": "Los Nevados"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Miranda",
+          "capital": "Timotes",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Miranda", "capital": "Timotes"},
+            {"codigo": "02", "nombre": "Andrés Eloy Blanco", "capital": "Chachopo"},
+            {"codigo": "03", "nombre": "La Venta", "capital": "La Venta"},
+            {"codigo": "04", "nombre": "Piñango", "capital": "Piñango"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Obispo Ramos de Lora",
+          "capital": "Santa Elena de Arenales",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Obispo Ramos de Lora", "capital": "Santa Elena de Arenales"},
+            {"codigo": "02", "nombre": "Eloy Paredes", "capital": "Guayabones"},
+            {"codigo": "03", "nombre": "San Rafael de Alcázar", "capital": "San Rafael de Alcázar"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Padre Noguera",
+          "capital": "Santa María de Caparo",
+          "parroquias": []
+        },
+        {
+          "codigo": "16",
+          "nombre": "Pueblo Llano",
+          "capital": "Pueblo Llano",
+          "parroquias": []
+        },
+        {
+          "codigo": "17",
+          "nombre": "Rangel",
+          "capital": "Mucuchíes",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Rangel", "capital": "Mucuchíes"},
+            {"codigo": "02", "nombre": "Cacute", "capital": "Cacute"},
+            {"codigo": "03", "nombre": "La Toma", "capital": "La Toma"},
+            {"codigo": "04", "nombre": "Mucurubá", "capital": "Mucurubá"},
+            {"codigo": "05", "nombre": "San Rafael", "capital": "San Rafael"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Rivas Dávila",
+          "capital": "Bailadores",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Rivas Dávila", "capital": "Bailadores"},
+            {"codigo": "02", "nombre": "Gerónimo Maldonado", "capital": "La Playa"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "Santos Marquina",
+          "capital": "Tabay",
+          "parroquias": []
+        },
+        {
+          "codigo": "20",
+          "nombre": "Sucre",
+          "capital": "Lagunillas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sucre", "capital": "Lagunillas"},
+            {"codigo": "02", "nombre": "Chiguará", "capital": "Chiguará"},
+            {"codigo": "03", "nombre": "Estánques", "capital": "Estánques"},
+            {"codigo": "04", "nombre": "La Trampa", "capital": "La Trampa"},
+            {"codigo": "05", "nombre": "Pueblo Nuevo del Sur", "capital": "Pueblo Nuevo del Sur"},
+            {"codigo": "06", "nombre": "San Juan", "capital": "San Juan"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Tovar",
+          "capital": "Tovar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Amparo", "capital": "Tovar"},
+            {"codigo": "02", "nombre": "El Llano", "capital": "Tovar"},
+            {"codigo": "03", "nombre": "San Francisco", "capital": "Tovar"},
+            {"codigo": "04", "nombre": "Tovar", "capital": "Tovar"}
+          ]
+        },
+        {
+          "codigo": "22",
+          "nombre": "Tulio Febres Cordero",
+          "capital": "Nueva Bolivia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tulio Febres Cordero", "capital": "Nueva Bolivia"},
+            {"codigo": "02", "nombre": "Independencia Palmarito", "capital": "Palmarito"},
+            {"codigo": "03", "nombre": "María de la Concep. Palacios Blanco", "capital": "Las Virtudes"},
+            {"codigo": "04", "nombre": "Santa Apolonia", "capital": "Santa Apolonia"}
+          ]
+        },
+        {
+          "codigo": "23",
+          "nombre": "Zea",
+          "capital": "Zea",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Zea", "capital": "Zea"},
+            {"codigo": "02", "nombre": "Caño El Tigre", "capital": "Caño Tigre"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "15",
+      "nombre": "Miranda",
+      "capital": "Los Teques",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Acevedo",
+          "capital": "Caucagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Caucagua", "capital": "Caucagua"},
+            {"codigo": "02", "nombre": "Aragüita", "capital": "Aragüita"},
+            {"codigo": "03", "nombre": "Arévalo González", "capital": "El Clavo"},
+            {"codigo": "04", "nombre": "Capaya", "capital": "Capaya"},
+            {"codigo": "05", "nombre": "El Café", "capital": "El Café"},
+            {"codigo": "06", "nombre": "Marizapa", "capital": "Marizapa"},
+            {"codigo": "07", "nombre": "Panaquire", "capital": "Panaquire"},
+            {"codigo": "08", "nombre": "Ribas", "capital": "Tapipa"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Andrés Bello",
+          "capital": "San José de Barlovento",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San José de Barlovento", "capital": "San José de Barlovento"},
+            {"codigo": "02", "nombre": "Cumbo", "capital": "Cumbo"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Baruta",
+          "capital": "Nuestra Señora del Rosario de Baruta",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Nuestra Señora del Rosario de Baruta", "capital": "Nuestra Señora del Rosario de Baruta"},
+            {"codigo": "02", "nombre": "El Cafetal", "capital": "El Cafetal"},
+            {"codigo": "03", "nombre": "Las Minas de Baruta", "capital": "Las Minas de Baruta"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Brión",
+          "capital": "Higuerote",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Higuerote", "capital": "Higuerote"},
+            {"codigo": "02", "nombre": "Curiepe", "capital": "Curiepe"},
+            {"codigo": "03", "nombre": "Tacarigua", "capital": "Tacarigua de Mamporal"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Buroz",
+          "capital": "Mamporal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Mamporal", "capital": "Mamporal"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Carrizal",
+          "capital": "Carrizal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Carrizal", "capital": "Carrizal"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Chacao",
+          "capital": "Chacao",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Chacao", "capital": "Chacao"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Cristóbal Rojas",
+          "capital": "Charallave",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Charallave", "capital": "Charallave"},
+            {"codigo": "02", "nombre": "Las Brisas", "capital": "Las Brisas"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "El Hatillo",
+          "capital": "El Hatillo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Hatillo", "capital": "El Hatillo"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Bolivariano Guaicaipuro",
+          "capital": "Los Teques",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Los Teques", "capital": "Los Teques"},
+            {"codigo": "02", "nombre": "Altagracia de La Montaña", "capital": "Altagracia de la Montaña"},
+            {"codigo": "03", "nombre": "Cecilio Acosta", "capital": "San Diego"},
+            {"codigo": "04", "nombre": "El Jarillo", "capital": "El Jarillo"},
+            {"codigo": "05", "nombre": "Paracotos", "capital": "Paracotos"},
+            {"codigo": "06", "nombre": "San Pedro", "capital": "San Pedro"},
+            {"codigo": "07", "nombre": "Tácata", "capital": "Tácata"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Independencia",
+          "capital": "Santa Teresa del Tuy",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Teresa del Tuy", "capital": "Santa Teresa del Tuy"},
+            {"codigo": "02", "nombre": "El Cartanal", "capital": "El Cartanal"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Lander",
+          "capital": "Ocumare del Tuy",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ocumare del Tuy", "capital": "Ocumare del Tuy"},
+            {"codigo": "02", "nombre": "La Democracia", "capital": "La Democracia"},
+            {"codigo": "03", "nombre": "Santa Bárbara", "capital": "Santa Bárbara"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Los Salias",
+          "capital": "San Antonio de Los Altos",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Antonio de Los Altos", "capital": "San Antonio de Los Altos"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Páez",
+          "capital": "Río Chico",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Río Chico", "capital": "Río Chico"},
+            {"codigo": "02", "nombre": "El Guapo", "capital": "El Guapo"},
+            {"codigo": "03", "nombre": "Tacarigua de La Laguna", "capital": "Tacarigua de La Laguna"},
+            {"codigo": "04", "nombre": "Paparo", "capital": "Paparo"},
+            {"codigo": "05", "nombre": "San Fernando del Guapo", "capital": "San Fernando del Guapo"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Paz Castillo",
+          "capital": "Santa Lucía",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Lucía", "capital": "Santa Lucía"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "Pedro Gual",
+          "capital": "Cúpira",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cúpira", "capital": "Cúpira"},
+            {"codigo": "02", "nombre": "Machurucuto", "capital": "Machurucuto"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "Plaza",
+          "capital": "Guarenas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guarenas", "capital": "Guarenas"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Simón Bolívar",
+          "capital": "San Francisco de Yare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Francisco de Yare", "capital": "San Francisco de Yare"},
+            {"codigo": "02", "nombre": "San Antonio de Yare", "capital": "San Antonio de Yare"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "Sucre",
+          "capital": "Petare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Petare", "capital": "Petare"},
+            {"codigo": "02", "nombre": "Caucagüita", "capital": "Caucagüita"},
+            {"codigo": "03", "nombre": "Fila de Mariche", "capital": "Fila de Mariche"},
+            {"codigo": "04", "nombre": "La Dolorita", "capital": "La Dolorita"},
+            {"codigo": "05", "nombre": "Leoncio Martínez", "capital": "Los Dos Caminos"}
+          ]
+        },
+        {
+          "codigo": "20",
+          "nombre": "Urdaneta",
+          "capital": "Cúa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cúa", "capital": "Cúa"},
+            {"codigo": "02", "nombre": "Nueva Cúa", "capital": "Nueva Cúa"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Zamora",
+          "capital": "Guatire",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guatire", "capital": "Guatire"},
+            {"codigo": "02", "nombre": "Bolívar", "capital": "Araira"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "16",
+      "nombre": "Monagas",
+      "capital": "Maturín",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Acosta",
+          "capital": "San Antonio",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Acosta", "capital": "San Antonio"},
+            {"codigo": "02", "nombre": "San Francisco", "capital": "San Francisco"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Aguasay",
+          "capital": "Aguasay",
+          "parroquias": []
+        },
+        {
+          "codigo": "03",
+          "nombre": "Bolívar",
+          "capital": "Caripito",
+          "parroquias": []
+        },
+        {
+          "codigo": "04",
+          "nombre": "Caripe",
+          "capital": "Caripe",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Caripe", "capital": "Caripe"},
+            {"codigo": "02", "nombre": "El Guácharo", "capital": "El Guácharo"},
+            {"codigo": "03", "nombre": "La Guanota", "capital": "La Guanota"},
+            {"codigo": "04", "nombre": "Sabana de Piedra", "capital": "Sabana de Piedra"},
+            {"codigo": "05", "nombre": "San Agustín", "capital": "San Agustín"},
+            {"codigo": "06", "nombre": "Teresén", "capital": "Teresén"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Cedeño",
+          "capital": "Caicara",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cedeño", "capital": "Caicara"},
+            {"codigo": "02", "nombre": "Areo", "capital": "Areo"},
+            {"codigo": "03", "nombre": "San Félix", "capital": "San Félix"},
+            {"codigo": "04", "nombre": "Viento Fresco", "capital": "Viento Fresco"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Ezequiel Zamora",
+          "capital": "Punta de Mata",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ezequiel Zamora", "capital": "Punta de Mata"},
+            {"codigo": "02", "nombre": "El Tejero", "capital": "El Tejero"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Libertador",
+          "capital": "Temblador",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertador", "capital": "Temblador"},
+            {"codigo": "02", "nombre": "Chaguaramas", "capital": "Chaguaramas"},
+            {"codigo": "03", "nombre": "Las Alhuacas", "capital": "Las Alhuacas"},
+            {"codigo": "04", "nombre": "Tabasca", "capital": "Tabasca"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Maturín",
+          "capital": "Maturín",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Maturín", "capital": "Maturín"},
+            {"codigo": "02", "nombre": "Alto de los Godos", "capital": "Maturín"},
+            {"codigo": "03", "nombre": "Boquerón", "capital": "Maturín"},
+            {"codigo": "04", "nombre": "Las Cocuizas", "capital": "Maturín"},
+            {"codigo": "05", "nombre": "San Simón", "capital": "Maturín"},
+            {"codigo": "06", "nombre": "Santa Cruz", "capital": "Maturín"},
+            {"codigo": "07", "nombre": "El Corozo", "capital": "El Corozo"},
+            {"codigo": "08", "nombre": "El Furrial", "capital": "El Furrial"},
+            {"codigo": "09", "nombre": "Jusepín", "capital": "Jusepín"},
+            {"codigo": "10", "nombre": "La Pica", "capital": "La Pica"},
+            {"codigo": "11", "nombre": "San Vicente", "capital": "San Vicente"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Piar",
+          "capital": "Aragua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Piar", "capital": "Aragua"},
+            {"codigo": "02", "nombre": "Aparicio", "capital": "Aparicio"},
+            {"codigo": "03", "nombre": "Chaguaramal", "capital": "Chaguaramal"},
+            {"codigo": "04", "nombre": "El Pinto", "capital": "El Pinto"},
+            {"codigo": "05", "nombre": "Guanaguana", "capital": "Guanaguana"},
+            {"codigo": "06", "nombre": "La Toscana", "capital": "La Toscana"},
+            {"codigo": "07", "nombre": "Taguaya", "capital": "Taguaya"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Punceres",
+          "capital": "Quiriquire",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Punceres", "capital": "Quiriquire"},
+            {"codigo": "02", "nombre": "Cachipo", "capital": "Cachipo"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Santa Bárbara",
+          "capital": "Santa Bárbara",
+          "parroquias": []
+        },
+        {
+          "codigo": "12",
+          "nombre": "Sotillo",
+          "capital": "Barrancas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sotillo", "capital": "Barrancas"},
+            {"codigo": "02", "nombre": "Los Barrancos de Fajardo", "capital": "Los Barrancos de Fajardo"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Uracoa",
+          "capital": "Uracoa",
+          "parroquias": []
+        }
+      ]
+    },
+    {
+      "codigo": "17",
+      "nombre": "Nueva Esparta",
+      "capital": "La Asunción",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Antolín del Campo",
+          "capital": "La Plaza de Paraguachí",
+          "parroquias": []
+        },
+        {
+          "codigo": "02",
+          "nombre": "Arismendi",
+          "capital": "La Asunción",
+          "parroquias": []
+        },
+        {
+          "codigo": "03",
+          "nombre": "Díaz",
+          "capital": "San Juan Bautista",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Díaz", "capital": "San Juan Bautista"},
+            {"codigo": "02", "nombre": "Zabala", "capital": "La Guardia"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "García",
+          "capital": "El Valle del Espíritu Santo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "García", "capital": "El Valle del Espíritu Santo"},
+            {"codigo": "02", "nombre": "Francisco Fajardo", "capital": "Villa Rosa"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Gómez",
+          "capital": "Santa Ana",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Gómez", "capital": "Santa Ana"},
+            {"codigo": "02", "nombre": "Bolívar", "capital": "El Maco"},
+            {"codigo": "03", "nombre": "Guevara", "capital": "Tacarigua"},
+            {"codigo": "04", "nombre": "Matasiete", "capital": "Pedro González"},
+            {"codigo": "05", "nombre": "Sucre", "capital": "Altagracia"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Maneiro",
+          "capital": "Pampatar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Maneiro", "capital": "Pampatar"},
+            {"codigo": "02", "nombre": "Aguirre", "capital": "El Pilar (Los Robles)"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Marcano",
+          "capital": "Juangriego",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Marcano", "capital": "Juangriego"},
+            {"codigo": "02", "nombre": "Adrián", "capital": "Los Millanes"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Mariño",
+          "capital": "Porlamar",
+          "parroquias": []
+        },
+        {
+          "codigo": "09",
+          "nombre": "Península de Macanao",
+          "capital": "Boca del Río",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Península de Macanao", "capital": "Boca de Río"},
+            {"codigo": "02", "nombre": "San Francisco", "capital": "Boca de Pozo"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tubores",
+          "capital": "Punta de Piedras",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tubores", "capital": "Punta de Piedras"},
+            {"codigo": "02", "nombre": "Los Barales", "capital": "El Guamache"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Villalba",
+          "capital": "San Pedro de Coche",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Villalba", "capital": "San Pedro de Coche"},
+            {"codigo": "02", "nombre": "Vicente Fuentes", "capital": "Güinima"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "18",
+      "nombre": "Portuguesa",
+      "capital": "Guanare",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Agua Blanca",
+          "capital": "Agua Blanca",
+          "parroquias": []
+        },
+        {
+          "codigo": "02",
+          "nombre": "Araure",
+          "capital": "Araure",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Araure", "capital": "Araure"},
+            {"codigo": "02", "nombre": "Río Acarigua", "capital": "Río Acarigua"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Esteller",
+          "capital": "Píritu",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Esteller", "capital": "Píritu"},
+            {"codigo": "02", "nombre": "Uveral", "capital": "Uveral"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Guanare",
+          "capital": "Guanare",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guanare", "capital": "Guanare"},
+            {"codigo": "02", "nombre": "Córdoba", "capital": "Córdoba"},
+            {"codigo": "03", "nombre": "San José de la Montaña", "capital": "San José de la Montaña"},
+            {"codigo": "04", "nombre": "San Juan de Guanaguanare", "capital": "Mesa de Cavacas"},
+            {"codigo": "05", "nombre": "Virgen de la Coromoto", "capital": "Quebrada de la Virgen"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Guanarito",
+          "capital": "Guanarito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Guanarito", "capital": "Guanarito"},
+            {"codigo": "02", "nombre": "Trinidad de la Capilla", "capital": "Trinidad de la Capilla"},
+            {"codigo": "03", "nombre": "Divina Pastora", "capital": "Morrones"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Monseñor José Vicente de Unda",
+          "capital": "Paraíso de Chabasquén",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Mons. José Vicente de Unda", "capital": "Paraíso de Chabasquén"},
+            {"codigo": "02", "nombre": "Peña Blanca", "capital": "Peña Blanca"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Ospino",
+          "capital": "Ospino",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ospino", "capital": "Ospino"},
+            {"codigo": "02", "nombre": "Aparición", "capital": "La Aparición"},
+            {"codigo": "03", "nombre": "La Estación", "capital": "La Estación"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Páez",
+          "capital": "Acarigua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Páez", "capital": "Acarigua"},
+            {"codigo": "02", "nombre": "Payara", "capital": "Payara"},
+            {"codigo": "03", "nombre": "Pimpinela", "capital": "Pimpinela"},
+            {"codigo": "04", "nombre": "Ramón Peraza", "capital": "Mijagüito"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Papelón",
+          "capital": "Papelón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Papelón", "capital": "Papelón"},
+            {"codigo": "02", "nombre": "Caño Delgadito", "capital": "Caño Delgadito"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "San Genaro de Boconoito",
+          "capital": "Boconoito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Genaro de Boconoito", "capital": "Boconoito"},
+            {"codigo": "02", "nombre": "Antolín Tovar", "capital": "San Nicolás"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "San Rafael de Onoto",
+          "capital": "San Rafael de Onoto",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Rafael de Onoto", "capital": "San Rafael de Onoto"},
+            {"codigo": "02", "nombre": "Santa Fe", "capital": "Santa Fe"},
+            {"codigo": "03", "nombre": "Thermo Morles", "capital": "El Algarrobito"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Santa Rosalía",
+          "capital": "El Playón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Rosalía", "capital": "El Playón"},
+            {"codigo": "02", "nombre": "Florida", "capital": "Nueva Florida"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Sucre",
+          "capital": "Biscucuy",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sucre", "capital": "Biscucuy"},
+            {"codigo": "02", "nombre": "Concepción", "capital": "La Concepción"},
+            {"codigo": "03", "nombre": "San Rafael de Palo Alzado", "capital": "San Rafael de Palo Alzado"},
+            {"codigo": "04", "nombre": "Uvencio Antonio Velásquez", "capital": "Las Cruces"},
+            {"codigo": "05", "nombre": "San José de Saguaz", "capital": "San José de Saguaz"},
+            {"codigo": "06", "nombre": "Villa Rosa", "capital": "Villa Rosa"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Turén",
+          "capital": "Villa Bruzual",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Turén", "capital": "Villa Bruzual"},
+            {"codigo": "02", "nombre": "Canelones", "capital": "La Misión"},
+            {"codigo": "03", "nombre": "Santa Cruz", "capital": "Santa Cruz"},
+            {"codigo": "04", "nombre": "San Isidro Labrador", "capital": "Colonia Turén"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "19",
+      "nombre": "Sucre",
+      "capital": "Cumaná",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Andrés Eloy Blanco",
+          "capital": "Casanay",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Mariño", "capital": "Casanay"},
+            {"codigo": "02", "nombre": "Rómulo Gallegos", "capital": "San Vicente"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Andrés Mata",
+          "capital": "San José de Aerocuar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San José de Aerocuar", "capital": "San José de Aerocuar"},
+            {"codigo": "02", "nombre": "Tavera Acosta", "capital": "Río Casanay"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Arismendi",
+          "capital": "Río Caribe",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Río Caribe", "capital": "Río Caribe"},
+            {"codigo": "02", "nombre": "Antonio José de Sucre", "capital": "San Juan de Unare"},
+            {"codigo": "03", "nombre": "El Morro de Puerto Santo", "capital": "El Morro de Puerto Santo"},
+            {"codigo": "04", "nombre": "Puerto Santo", "capital": "Puerto Santo"},
+            {"codigo": "05", "nombre": "San Juan de Las Galdonas", "capital": "San Juan de Las Galdonas"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Benítez",
+          "capital": "El Pilar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Pilar", "capital": "El Pilar"},
+            {"codigo": "02", "nombre": "El Rincón", "capital": "El Rincón"},
+            {"codigo": "03", "nombre": "General Francisco Antonio Vásquez", "capital": "Los Arroyos"},
+            {"codigo": "04", "nombre": "Guaraúnos", "capital": "Guaraúnos"},
+            {"codigo": "05", "nombre": "Tunapuicito", "capital": "Tunapuicito"},
+            {"codigo": "06", "nombre": "Unión", "capital": "Guariquén"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Bermúdez",
+          "capital": "Carúpano",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bolívar", "capital": "Playa Grande"},
+            {"codigo": "02", "nombre": "Macarapana", "capital": "Carúpano"},
+            {"codigo": "03", "nombre": "Santa Catalina", "capital": "Carúpano"},
+            {"codigo": "04", "nombre": "Santa Rosa", "capital": "Carúpano"},
+            {"codigo": "05", "nombre": "Santa Teresa", "capital": "Carúpano"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Bolívar",
+          "capital": "Marigüitar",
+          "parroquias": []
+        },
+        {
+          "codigo": "07",
+          "nombre": "Cajigal",
+          "capital": "Yaguaraparo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Yaguaraparo", "capital": "Yaguaraparo"},
+            {"codigo": "02", "nombre": "El Paujil", "capital": "El Paujil"},
+            {"codigo": "03", "nombre": "Libertad", "capital": "Río Seco"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Cruz Salmerón Acosta",
+          "capital": "Araya",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Araya", "capital": "Araya"},
+            {"codigo": "02", "nombre": "Chacopata", "capital": "Chacopata"},
+            {"codigo": "03", "nombre": "Manicuare", "capital": "Manicuare"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "Libertador",
+          "capital": "Tunapuy",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Tunapuy", "capital": "Tunapuy"},
+            {"codigo": "02", "nombre": "Campo Elías", "capital": "Guayana"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Mariño",
+          "capital": "Irapa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Irapa", "capital": "Irapa"},
+            {"codigo": "02", "nombre": "Campo Claro", "capital": "Campo Claro"},
+            {"codigo": "03", "nombre": "Marabal", "capital": "Marabal"},
+            {"codigo": "04", "nombre": "San Antonio de Irapa", "capital": "San Antonio de Irapa"},
+            {"codigo": "05", "nombre": "Soro", "capital": "Soro"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Mejía",
+          "capital": "San Antonio del Golfo",
+          "parroquias": []
+        },
+        {
+          "codigo": "12",
+          "nombre": "Montes",
+          "capital": "Cumanacoa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cumanacoa", "capital": "Cumanacoa"},
+            {"codigo": "02", "nombre": "Arenas", "capital": "Arenas"},
+            {"codigo": "03", "nombre": "Aricagua", "capital": "Aricagua"},
+            {"codigo": "04", "nombre": "Cocollar", "capital": "Las Piedras"},
+            {"codigo": "05", "nombre": "San Fernando", "capital": "Villarroel (Quebrada Seca)"},
+            {"codigo": "06", "nombre": "San Lorenzo", "capital": "San Lorenzo"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Ribero",
+          "capital": "Cariaco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cariaco", "capital": "Cariaco"},
+            {"codigo": "02", "nombre": "Catuaro", "capital": "Catuaro"},
+            {"codigo": "03", "nombre": "Rendón Villa", "capital": "Frontado (Muelle de Cariaco)"},
+            {"codigo": "04", "nombre": "Santa Cruz", "capital": "Santa Cruz"},
+            {"codigo": "05", "nombre": "Santa María", "capital": "Santa María"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Sucre",
+          "capital": "Cumaná",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Altagracia", "capital": "Cumaná"},
+            {"codigo": "02", "nombre": "Ayacucho", "capital": "Cumaná"},
+            {"codigo": "03", "nombre": "Santa Inés", "capital": "Cumaná"},
+            {"codigo": "04", "nombre": "Valentín Valiente", "capital": "Caigüire"},
+            {"codigo": "05", "nombre": "San Juan", "capital": "San Juan"},
+            {"codigo": "06", "nombre": "Raúl Leoni", "capital": "Los Puertos de Santa Fe"},
+            {"codigo": "07", "nombre": "Gran Mariscal", "capital": "Los Altos de Sucre"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Valdez",
+          "capital": "Güiria",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Güiria", "capital": "Güiria"},
+            {"codigo": "02", "nombre": "Bideau", "capital": "Rio Salado"},
+            {"codigo": "03", "nombre": "Cristóbal Colón", "capital": "Macuro"},
+            {"codigo": "04", "nombre": "Punta de Piedras", "capital": "Yoco"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "20",
+      "nombre": "Táchira",
+      "capital": "San Cristóbal",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Andrés Bello",
+          "capital": "Cordero",
+          "parroquias": []
+        },
+        {
+          "codigo": "02",
+          "nombre": "Antonio Rómulo Costa",
+          "capital": "Las Mesas",
+          "parroquias": []
+        },
+        {
+          "codigo": "03",
+          "nombre": "Ayacucho",
+          "capital": "Colón",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ayacucho", "capital": "Colón"},
+            {"codigo": "02", "nombre": "Rivas Berti", "capital": "San Félix"},
+            {"codigo": "03", "nombre": "San Pedro del Río", "capital": "San Pedro del Río"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Bolívar",
+          "capital": "San Antonio del Táchira",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bolívar", "capital": "San Antonio del Táchira"},
+            {"codigo": "02", "nombre": "Palotal", "capital": "Palotal"},
+            {"codigo": "03", "nombre": "Juan Vicente Gómez", "capital": "El Recreo"},
+            {"codigo": "04", "nombre": "Isaías Medina Angarita", "capital": "Las Dantas"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Cárdenas",
+          "capital": "Táriba",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Cárdenas", "capital": "Táriba"},
+            {"codigo": "02", "nombre": "Amenodoro Rangel Lamús", "capital": "Palo Gordo"},
+            {"codigo": "03", "nombre": "La Florida", "capital": "La Florida"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Córdoba",
+          "capital": "Santa Ana",
+          "parroquias": []
+        },
+        {
+          "codigo": "07",
+          "nombre": "Fernández Feo",
+          "capital": "San Rafael del Piñal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Fernández Feo", "capital": "San Rafael del Piñal"},
+            {"codigo": "02", "nombre": "Alberto Adriani", "capital": "Puerto Teteo"},
+            {"codigo": "03", "nombre": "Santo Domingo", "capital": "San Lorenzo"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Francisco de Miranda",
+          "capital": "San José de Bolívar",
+          "parroquias": []
+        },
+        {
+          "codigo": "09",
+          "nombre": "García de Hevia",
+          "capital": "La Fría",
+          "parroquias": [
+            {"codigo": "01", "nombre": "García de Hevia", "capital": "La Fría"},
+            {"codigo": "02", "nombre": "Boca de Grita", "capital": "Boca de Grita"},
+            {"codigo": "03", "nombre": "José Antonio Páez", "capital": "Orope"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Guásimos",
+          "capital": "Palmira",
+          "parroquias": []
+        },
+        {
+          "codigo": "11",
+          "nombre": "Independencia",
+          "capital": "Capacho Nuevo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Independencia", "capital": "Capacho Nuevo"},
+            {"codigo": "02", "nombre": "Juan Germán Roscio", "capital": "El Valle"},
+            {"codigo": "03", "nombre": "Román Cárdenas", "capital": "Peribeca"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Jáuregui",
+          "capital": "La Grita",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Jáuregui", "capital": "La Grita"},
+            {"codigo": "02", "nombre": "Emilio Constantino Guerrero", "capital": "Pueblo Hondo"},
+            {"codigo": "03", "nombre": "Monseñor Miguel Antonio Salas", "capital": "Sabana Grande"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "José María Vargas",
+          "capital": "El Cobre",
+          "parroquias": []
+        },
+        {
+          "codigo": "14",
+          "nombre": "Junín",
+          "capital": "Rubio",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Junín", "capital": "Rubio"},
+            {"codigo": "02", "nombre": "La Petrólea", "capital": "Río Chiquito"},
+            {"codigo": "03", "nombre": "Quinimarí", "capital": "San Vicente de la Revancha"},
+            {"codigo": "04", "nombre": "Bramón", "capital": "Bramón"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Libertad",
+          "capital": "Capacho Viejo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertad", "capital": "Capacho Viejo"},
+            {"codigo": "02", "nombre": "Cipriano Castro", "capital": "Hato de la Virgen"},
+            {"codigo": "03", "nombre": "Manuel Felipe Rugeles", "capital": "El Pueblito"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "Libertador",
+          "capital": "Abejales",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertador", "capital": "Abejales"},
+            {"codigo": "02", "nombre": "Don Emeterio Ochoa", "capital": "Puerto Nuevo"},
+            {"codigo": "03", "nombre": "Doradas", "capital": "El Milagro"},
+            {"codigo": "04", "nombre": "San Joaquín de Navay", "capital": "San Joaquín de Navay"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "Lobatera",
+          "capital": "Lobatera",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Lobatera", "capital": "Lobatera"},
+            {"codigo": "02", "nombre": "Constitución", "capital": "Borotá"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Michelena",
+          "capital": "Michelena",
+          "parroquias": []
+        },
+        {
+          "codigo": "19",
+          "nombre": "Panamericano",
+          "capital": "Coloncito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Panamericano", "capital": "Coloncito"},
+            {"codigo": "02", "nombre": "La Palmita", "capital": "La Palmita"}
+          ]
+        },
+        {
+          "codigo": "20",
+          "nombre": "Pedro María Ureña",
+          "capital": "Ureña",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pedro María Ureña", "capital": "Ureña"},
+            {"codigo": "02", "nombre": "Nueva Arcadia", "capital": "Aguas Calientes"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Rafael Urdaneta",
+          "capital": "Delicias",
+          "parroquias": []
+        },
+        {
+          "codigo": "22",
+          "nombre": "Samuel Darío Maldonado",
+          "capital": "La Tendida",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Samuel Darío Maldonado", "capital": "La Tendida"},
+            {"codigo": "02", "nombre": "Boconó", "capital": "Boconó"},
+            {"codigo": "03", "nombre": "Hernández", "capital": "Hernández"}
+          ]
+        },
+        {
+          "codigo": "23",
+          "nombre": "San Cristóbal",
+          "capital": "San Cristóbal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "La Concordia", "capital": "San Cristóbal"},
+            {"codigo": "02", "nombre": "Pedro María Morantes", "capital": "San Cristóbal"},
+            {"codigo": "03", "nombre": "San Juan Bautista", "capital": "San Cristóbal"},
+            {"codigo": "04", "nombre": "San Sebastián", "capital": "San Cristóbal"},
+            {"codigo": "05", "nombre": "Dr. Francisco Romero Lobo", "capital": "Macanillo"}
+          ]
+        },
+        {
+          "codigo": "24",
+          "nombre": "Seboruco",
+          "capital": "Seboruco",
+          "parroquias": []
+        },
+        {
+          "codigo": "25",
+          "nombre": "Simón Rodríguez",
+          "capital": "San Simón",
+          "parroquias": []
+        },
+        {
+          "codigo": "26",
+          "nombre": "Sucre",
+          "capital": "Queniquea",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sucre", "capital": "Queniquea"},
+            {"codigo": "02", "nombre": "Eleazar López Contreras", "capital": "Mesa del Tigre"},
+            {"codigo": "03", "nombre": "San Pablo", "capital": "San Pablo"}
+          ]
+        },
+        {
+          "codigo": "27",
+          "nombre": "Torbes",
+          "capital": "San Josecito",
+          "parroquias": []
+        },
+        {
+          "codigo": "28",
+          "nombre": "Uribante",
+          "capital": "Pregonero",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Uribante", "capital": "Pregonero"},
+            {"codigo": "02", "nombre": "Cárdenas", "capital": "La Fundación"},
+            {"codigo": "03", "nombre": "Juan Pablo Peñaloza", "capital": "Laguna de García"},
+            {"codigo": "04", "nombre": "Potosí", "capital": "Patio Redondo"}
+          ]
+        },
+        {
+          "codigo": "29",
+          "nombre": "San Judas Tadeo",
+          "capital": "Umuquena",
+          "parroquias": []
+        }
+      ]
+    },
+    {
+      "codigo": "21",
+      "nombre": "Trujillo",
+      "capital": "Trujillo",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Andrés Bello",
+          "capital": "Santa Isabel",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Isabel", "capital": "Santa Isabel"},
+            {"codigo": "02", "nombre": "Araguaney", "capital": "Araguaney"},
+            {"codigo": "03", "nombre": "El Jagüito", "capital": "El Jagüito"},
+            {"codigo": "04", "nombre": "La Esperanza", "capital": "El Gallo"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Boconó",
+          "capital": "Boconó",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Boconó", "capital": "Boconó"},
+            {"codigo": "02", "nombre": "El Carmen", "capital": "El Carmen"},
+            {"codigo": "03", "nombre": "Mosquey", "capital": "Mosquey"},
+            {"codigo": "04", "nombre": "Ayacucho", "capital": "Batatal"},
+            {"codigo": "05", "nombre": "Burbusay", "capital": "Burbusay"},
+            {"codigo": "06", "nombre": "General Rivas", "capital": "Las Mesitas"},
+            {"codigo": "07", "nombre": "Guaramacal", "capital": "Guaramacal"},
+            {"codigo": "08", "nombre": "Vega de Guaramacal", "capital": "Vega de Guaramacal"},
+            {"codigo": "09", "nombre": "Monseñor Jáuregui", "capital": "Niquitao"},
+            {"codigo": "10", "nombre": "Rafael Rangel", "capital": "San Rafael"},
+            {"codigo": "11", "nombre": "San Miguel", "capital": "San Miguel"},
+            {"codigo": "12", "nombre": "San José", "capital": "Tostós"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Bolívar",
+          "capital": "Sabana Grande",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sabana Grande", "capital": "Sabana Grande"},
+            {"codigo": "02", "nombre": "Cheregüé", "capital": "Altamira de Caús"},
+            {"codigo": "03", "nombre": "Granados", "capital": "Granados"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Candelaria",
+          "capital": "Chejendé",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Chejendé", "capital": "Chejendé"},
+            {"codigo": "02", "nombre": "Arnoldo Gabaldón", "capital": "Minas"},
+            {"codigo": "03", "nombre": "Bolivia", "capital": "Bolivia"},
+            {"codigo": "04", "nombre": "Carrillo", "capital": "Torococo"},
+            {"codigo": "05", "nombre": "Cegarra", "capital": "Mitón"},
+            {"codigo": "06", "nombre": "Manuel Salvador Ulloa", "capital": "Sabana Grande"},
+            {"codigo": "07", "nombre": "San José", "capital": "Las Llanadas"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Carache",
+          "capital": "Carache",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Carache", "capital": "Carache"},
+            {"codigo": "02", "nombre": "Cuicas", "capital": "Cuicas"},
+            {"codigo": "03", "nombre": "La Concepción", "capital": "La Concepción"},
+            {"codigo": "04", "nombre": "Panamericana", "capital": "El Zapatero"},
+            {"codigo": "05", "nombre": "Santa Cruz", "capital": "La Cuchilla"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Escuque",
+          "capital": "Escuque",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Escuque", "capital": "Escuque"},
+            {"codigo": "02", "nombre": "La Unión", "capital": "El Alto"},
+            {"codigo": "03", "nombre": "Sabana Libre", "capital": "Sabana Libre"},
+            {"codigo": "04", "nombre": "Santa Rita", "capital": "La Mata"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "José Felipe Márquez Cañizales",
+          "capital": "El Paradero",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Socorro", "capital": "El Paradero"},
+            {"codigo": "02", "nombre": "Antonio José de Sucre", "capital": "La Placita"},
+            {"codigo": "03", "nombre": "Los Caprichos", "capital": "Los Caprichos"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Juan Vicente Campo Elías",
+          "capital": "Campo Elías",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Campo Elías", "capital": "Campo Elías"},
+            {"codigo": "02", "nombre": "Arnoldo Gabaldón", "capital": "Las Quebradas"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "La Ceiba",
+          "capital": "Santa Apolonia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Apolonia", "capital": "Santa Apolonia"},
+            {"codigo": "02", "nombre": "El Progreso", "capital": "Zona Rica"},
+            {"codigo": "03", "nombre": "La Ceiba", "capital": "La Ceiba"},
+            {"codigo": "04", "nombre": "Tres de Febrero", "capital": "Tres de Febrero"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Miranda",
+          "capital": "El Dividive",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Dividive", "capital": "El Dividive"},
+            {"codigo": "02", "nombre": "Agua Santa", "capital": "Agua Santa"},
+            {"codigo": "03", "nombre": "Agua Caliente", "capital": "Agua Caliente"},
+            {"codigo": "04", "nombre": "El Cenizo", "capital": "El Cenizo"},
+            {"codigo": "05", "nombre": "Valerita", "capital": "Valerita"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Monte Carmelo",
+          "capital": "Monte Carmelo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Monte Carmelo", "capital": "Monte Carmelo"},
+            {"codigo": "02", "nombre": "Buena Vista", "capital": "Buena Vista"},
+            {"codigo": "03", "nombre": "Santa María del Horcón", "capital": "Casa de Tabla"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Motatán",
+          "capital": "Motatán",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Motatán", "capital": "Motatán"},
+            {"codigo": "02", "nombre": "El Baño", "capital": "El Baño"},
+            {"codigo": "03", "nombre": "Jalisco", "capital": "Jalisco"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Pampán",
+          "capital": "Pampán",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pampán", "capital": "Pampán"},
+            {"codigo": "02", "nombre": "Flor de Patria", "capital": "Flor de Patria"},
+            {"codigo": "03", "nombre": "La Paz", "capital": "Monay"},
+            {"codigo": "04", "nombre": "Santa Ana", "capital": "Santa Ana"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Pampanito",
+          "capital": "Pampanito",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Pampanito", "capital": "Pampanito"},
+            {"codigo": "02", "nombre": "La Concepción", "capital": "La Concepción"},
+            {"codigo": "03", "nombre": "Pampanito II", "capital": "Pampanito II"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Rafael Rangel",
+          "capital": "Betijoque",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Betijoque", "capital": "Betijoque"},
+            {"codigo": "02", "nombre": "La Pueblita", "capital": "Las Rurales"},
+            {"codigo": "03", "nombre": "Los Cedros", "capital": "Los Cedros"},
+            {"codigo": "04", "nombre": "José Gregorio Hernández", "capital": "Isnotú"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "San Rafael de Carvajal",
+          "capital": "Carvajal",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Carvajal", "capital": "Carvajal"},
+            {"codigo": "02", "nombre": "Antonio Nicolás Briceño", "capital": "La Cejita"},
+            {"codigo": "03", "nombre": "Campo Alegre", "capital": "Campo Alegre"},
+            {"codigo": "04", "nombre": "José Leonardo Suárez", "capital": "Las Mesetas"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "Sucre",
+          "capital": "Sabana de Mendoza",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sabana de Mendoza", "capital": "Sabana de Mendoza"},
+            {"codigo": "02", "nombre": "El Paraíso", "capital": "El Paraíso"},
+            {"codigo": "03", "nombre": "Junín", "capital": "Junín"},
+            {"codigo": "04", "nombre": "Valmore Rodríguez", "capital": "Valmore Rodríguez"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Trujillo",
+          "capital": "Trujillo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Andrés Linares", "capital": "San Lázaro"},
+            {"codigo": "02", "nombre": "Chiquinquirá", "capital": "Chiquinquirá"},
+            {"codigo": "03", "nombre": "Cristóbal Mendoza", "capital": "Santa Rosa"},
+            {"codigo": "04", "nombre": "Cruz Carrillo", "capital": "La Plazuela"},
+            {"codigo": "05", "nombre": "Matriz", "capital": "Matriz"},
+            {"codigo": "06", "nombre": "Monseñor Carrillo", "capital": "San Jacinto"},
+            {"codigo": "07", "nombre": "Tres Esquinas", "capital": "Tres Esquinas"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "Urdaneta",
+          "capital": "La Quebrada",
+          "parroquias": [
+            {"codigo": "01", "nombre": "La Quebrada", "capital": "La Quebrada"},
+            {"codigo": "02", "nombre": "Cabimbú", "capital": "Cabimbú"},
+            {"codigo": "03", "nombre": "Jajó", "capital": "Jajó"},
+            {"codigo": "04", "nombre": "La Mesa", "capital": "La Mesa de Esnujaque"},
+            {"codigo": "05", "nombre": "Santiago", "capital": "Santiago"},
+            {"codigo": "06", "nombre": "Tuñame", "capital": "Tuñame"}
+          ]
+        },
+        {
+          "codigo": "20",
+          "nombre": "Valera",
+          "capital": "Valera",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Juan Ignacio Montilla", "capital": "Juan Ignacio Montilla"},
+            {"codigo": "02", "nombre": "La Beatriz", "capital": "La Beatriz"},
+            {"codigo": "03", "nombre": "Mercedes Díaz", "capital": "Mercedes Díaz"},
+            {"codigo": "04", "nombre": "San Luis", "capital": "San Luis"},
+            {"codigo": "05", "nombre": "La Puerta", "capital": "La Puerta"},
+            {"codigo": "06", "nombre": "Mendoza", "capital": "Mendoza"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "22",
+      "nombre": "Yaracuy",
+      "capital": "San Felipe",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Arístides Bastidas",
+          "capital": "San Pablo",
+          "parroquias": []
+        },
+        {
+          "codigo": "02",
+          "nombre": "Bolívar",
+          "capital": "Aroa",
+          "parroquias": []
+        },
+        {
+          "codigo": "03",
+          "nombre": "Bruzual",
+          "capital": "Chivacoa",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bruzual", "capital": "Chivacoa"},
+            {"codigo": "02", "nombre": "Campo Elías", "capital": "Campo Elías"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Cocorote",
+          "capital": "Cocorote",
+          "parroquias": []
+        },
+        {
+          "codigo": "05",
+          "nombre": "Independencia",
+          "capital": "Independencia",
+          "parroquias": []
+        },
+        {
+          "codigo": "06",
+          "nombre": "José Antonio Páez",
+          "capital": "Sabana de Parra",
+          "parroquias": []
+        },
+        {
+          "codigo": "07",
+          "nombre": "La Trinidad",
+          "capital": "Boraure",
+          "parroquias": []
+        },
+        {
+          "codigo": "08",
+          "nombre": "Manuel Monge",
+          "capital": "Yumare",
+          "parroquias": []
+        },
+        {
+          "codigo": "09",
+          "nombre": "Nirgua",
+          "capital": "Nirgua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Nirgua", "capital": "Nirgua"},
+            {"codigo": "02", "nombre": "Salom", "capital": "Salom"},
+            {"codigo": "03", "nombre": "Temerla", "capital": "Temerla"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Peña",
+          "capital": "Yaritagua",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Peña", "capital": "Yaritagua"},
+            {"codigo": "02", "nombre": "San Andrés", "capital": "Cambural"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "San Felipe",
+          "capital": "San Felipe",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Felipe", "capital": "San Felipe"},
+            {"codigo": "02", "nombre": "Albarico", "capital": "Albarico"},
+            {"codigo": "03", "nombre": "San Javier", "capital": "Marín"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Sucre",
+          "capital": "Guama",
+          "parroquias": []
+        },
+        {
+          "codigo": "13",
+          "nombre": "Urachiche",
+          "capital": "Urachiche",
+          "parroquias": []
+        },
+        {
+          "codigo": "14",
+          "nombre": "Veroes",
+          "capital": "Farriar",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Veroes", "capital": "Farriar"},
+            {"codigo": "02", "nombre": "El Guayabo", "capital": "Casimiro Vásquez"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "23",
+      "nombre": "Zulia",
+      "capital": "Maracaibo",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Almirante Padilla",
+          "capital": "El Toro",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Isla de Toas", "capital": "El Toro"},
+            {"codigo": "02", "nombre": "Monagas", "capital": "San Carlos"}
+          ]
+        },
+        {
+          "codigo": "02",
+          "nombre": "Baralt",
+          "capital": "San Timoteo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Timoteo", "capital": "San Timoteo"},
+            {"codigo": "02", "nombre": "General Urdaneta", "capital": "Ceuta"},
+            {"codigo": "03", "nombre": "Libertador", "capital": "Mene Grande"},
+            {"codigo": "04", "nombre": "Manuel Guanipa Matos", "capital": "El Venado"},
+            {"codigo": "05", "nombre": "Marcelino Briceño", "capital": "El Tigre"},
+            {"codigo": "06", "nombre": "Pueblo Nuevo", "capital": "Pueblo Nuevo"}
+          ]
+        },
+        {
+          "codigo": "03",
+          "nombre": "Cabimas",
+          "capital": "Cabimas",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Ambrosio", "capital": "Cabimas"},
+            {"codigo": "02", "nombre": "Carmen Herrera", "capital": "Cabimas"},
+            {"codigo": "03", "nombre": "Germán Ríos Linares", "capital": "Cabimas"},
+            {"codigo": "04", "nombre": "La Rosa", "capital": "Cabimas"},
+            {"codigo": "05", "nombre": "Jorge Hernández", "capital": "Cabimas"},
+            {"codigo": "06", "nombre": "Rómulo Betancourt", "capital": "Cabimas"},
+            {"codigo": "07", "nombre": "San Benito", "capital": "Cabimas"},
+            {"codigo": "08", "nombre": "Arístides Calvani", "capital": "Palito Blanco"},
+            {"codigo": "09", "nombre": "Punta Gorda", "capital": "Punta Gorda"}
+          ]
+        },
+        {
+          "codigo": "04",
+          "nombre": "Catatumbo",
+          "capital": "Encontrados",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Encontrados", "capital": "Encontrados"},
+            {"codigo": "02", "nombre": "Udón Pérez", "capital": "El Guayabo"}
+          ]
+        },
+        {
+          "codigo": "05",
+          "nombre": "Colón",
+          "capital": "San Carlos del Zulia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Carlos del Zulia", "capital": "San Carlos del Zulia"},
+            {"codigo": "02", "nombre": "Moralito", "capital": "El Moralito"},
+            {"codigo": "03", "nombre": "Santa Bárbara", "capital": "Santa Bárbara"},
+            {"codigo": "04", "nombre": "Santa Cruz del Zulia", "capital": "Santa Cruz del Zulia"},
+            {"codigo": "05", "nombre": "Urribarri", "capital": "Concha"}
+          ]
+        },
+        {
+          "codigo": "06",
+          "nombre": "Francisco Javier Pulgar",
+          "capital": "Pueblo Nuevo El Chivo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Simón Rodríguez", "capital": "Pueblo Nuevo El Chivo"},
+            {"codigo": "02", "nombre": "Carlos Quevedo", "capital": "Cuatro Esquinas"},
+            {"codigo": "03", "nombre": "Francisco Javier Pulgar", "capital": "Los Naranjos"},
+            {"codigo": "04", "nombre": "Agustín Codazzi", "capital": "La Ceibita"}
+          ]
+        },
+        {
+          "codigo": "07",
+          "nombre": "Jesús Enrique Lossada",
+          "capital": "La Concepción",
+          "parroquias": [
+            {"codigo": "01", "nombre": "La Concepción", "capital": "La Concepción"},
+            {"codigo": "02", "nombre": "José Ramón Yepes", "capital": "La Paz"},
+            {"codigo": "03", "nombre": "Mariano Parra León", "capital": "Jobo Alto (Kilómetro 25)"},
+            {"codigo": "04", "nombre": "San José", "capital": "San José"}
+          ]
+        },
+        {
+          "codigo": "08",
+          "nombre": "Jesús María Semprún",
+          "capital": "Casigua El Cubo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Jesús María Semprún", "capital": "Casigua El Cubo"},
+            {"codigo": "02", "nombre": "Barí", "capital": "El Cruce"}
+          ]
+        },
+        {
+          "codigo": "09",
+          "nombre": "La Cañada de Urdaneta",
+          "capital": "Concepción",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Concepción", "capital": "Concepción"},
+            {"codigo": "02", "nombre": "Andrés Bello", "capital": "Kilómetro 48 (Santo Domingo)"},
+            {"codigo": "03", "nombre": "Chiquinquirá", "capital": "La Ensenada"},
+            {"codigo": "04", "nombre": "El Carmelo", "capital": "El Carmelo"},
+            {"codigo": "05", "nombre": "Potreritos", "capital": "Potreritos"}
+          ]
+        },
+        {
+          "codigo": "10",
+          "nombre": "Lagunillas",
+          "capital": "Ciudad Ojeda",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Alonso de Ojeda", "capital": "Ciudad Ojeda"},
+            {"codigo": "02", "nombre": "Libertad", "capital": "Ciudad Ojeda"},
+            {"codigo": "03", "nombre": "Campo Lara", "capital": "Campo Lara"},
+            {"codigo": "04", "nombre": "Eleazar López Contreras", "capital": "Picapica"},
+            {"codigo": "05", "nombre": "Venezuela", "capital": "Lagunillas"},
+            {"codigo": "06", "nombre": "El Danto", "capital": "Ciudad Ojeda"}
+          ]
+        },
+        {
+          "codigo": "11",
+          "nombre": "Machiques de Perijá",
+          "capital": "Machiques",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Libertad", "capital": "Machiques"},
+            {"codigo": "02", "nombre": "Bartolomé de las Casas", "capital": "Las Piedras"},
+            {"codigo": "03", "nombre": "Río Negro", "capital": "Río Negro"},
+            {"codigo": "04", "nombre": "San José de Perijá", "capital": "San José"}
+          ]
+        },
+        {
+          "codigo": "12",
+          "nombre": "Mara",
+          "capital": "San Rafael de El Moján",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Rafael", "capital": "San Rafael de El Moján"},
+            {"codigo": "02", "nombre": "La Sierrita", "capital": "La Sierrita"},
+            {"codigo": "03", "nombre": "Las Parcelas", "capital": "Las Parcelas"},
+            {"codigo": "04", "nombre": "Luis de Vicente", "capital": "Carrasquero"},
+            {"codigo": "05", "nombre": "Monseñor Marcos Sergio Godoy", "capital": "Cachirí"},
+            {"codigo": "06", "nombre": "Ricaurte", "capital": "Santa Cruz de Mara"},
+            {"codigo": "07", "nombre": "Tamare", "capital": "Tamare"}
+          ]
+        },
+        {
+          "codigo": "13",
+          "nombre": "Maracaibo",
+          "capital": "Maracaibo",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Antonio Borjas Romero", "capital": "Maracaibo"},
+            {"codigo": "02", "nombre": "Bolívar", "capital": "Maracaibo"},
+            {"codigo": "03", "nombre": "Cacique Mara", "capital": "Maracaibo"},
+            {"codigo": "04", "nombre": "Caracciolo Parra Pérez", "capital": "Maracaibo"},
+            {"codigo": "05", "nombre": "Cecilio Acosta", "capital": "Maracaibo"},
+            {"codigo": "06", "nombre": "Cristo de Aranza", "capital": "Maracaibo"},
+            {"codigo": "07", "nombre": "Coquivacoa", "capital": "Maracaibo"},
+            {"codigo": "08", "nombre": "Chiquinquirá", "capital": "Maracaibo"},
+            {"codigo": "09", "nombre": "Francisco Eugenio Bustamante", "capital": "Maracaibo"},
+            {"codigo": "10", "nombre": "Idelfonso Vásquez", "capital": "Maracaibo"},
+            {"codigo": "11", "nombre": "Juana de Ávila", "capital": "Maracaibo"},
+            {"codigo": "12", "nombre": "Luis Hurtado Higuera", "capital": "Maracaibo"},
+            {"codigo": "13", "nombre": "Manuel Dagnino", "capital": "Maracaibo"},
+            {"codigo": "14", "nombre": "Olegario Villalobos", "capital": "Maracaibo"},
+            {"codigo": "15", "nombre": "Raúl Leoni", "capital": "Maracaibo"},
+            {"codigo": "16", "nombre": "Santa Lucía", "capital": "Maracaibo"},
+            {"codigo": "17", "nombre": "Venancio Pulgar", "capital": "Maracaibo"},
+            {"codigo": "18", "nombre": "San Isidro", "capital": "San Isidro"}
+          ]
+        },
+        {
+          "codigo": "14",
+          "nombre": "Miranda",
+          "capital": "Los Puertos de Altagracia",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Altagracia", "capital": "Los Puertos de Altagracia"},
+            {"codigo": "02", "nombre": "Ana María Campos", "capital": "El Mecocal"},
+            {"codigo": "03", "nombre": "Faría", "capital": "Quisiro"},
+            {"codigo": "04", "nombre": "San Antonio", "capital": "El Consejo de Ciruma"},
+            {"codigo": "05", "nombre": "San José", "capital": "Sabaneta de Palmas"},
+            {"codigo": "06", "nombre": "José Antonio Chaves", "capital": "Punta de Piedras"}
+          ]
+        },
+        {
+          "codigo": "15",
+          "nombre": "Indígena Bolivariano Guajira",
+          "capital": "Sinamaica",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Sinamaica", "capital": "Sinamaica"},
+            {"codigo": "02", "nombre": "Alta Guajira", "capital": "Cojoro"},
+            {"codigo": "03", "nombre": "Elías Sánchez Rubio", "capital": "El Molinete"},
+            {"codigo": "04", "nombre": "Guajira", "capital": "Paraguaipoa"}
+          ]
+        },
+        {
+          "codigo": "16",
+          "nombre": "Rosario de Perijá",
+          "capital": "La Villa del Rosario",
+          "parroquias": [
+            {"codigo": "01", "nombre": "El Rosario", "capital": "La Villa del Rosario"},
+            {"codigo": "02", "nombre": "Donaldo García", "capital": "Barranquitas"},
+            {"codigo": "03", "nombre": "Sixto Zambrano", "capital": "San Ignacio"}
+          ]
+        },
+        {
+          "codigo": "17",
+          "nombre": "San Francisco",
+          "capital": "San Francisco",
+          "parroquias": [
+            {"codigo": "01", "nombre": "San Francisco", "capital": "San Francisco"},
+            {"codigo": "02", "nombre": "El Bajo", "capital": "El Bajo"},
+            {"codigo": "03", "nombre": "Domitila Flores", "capital": "El Silencio"},
+            {"codigo": "04", "nombre": "Francisco Ochoa", "capital": "Sierra Maestra"},
+            {"codigo": "05", "nombre": "Los Cortijos", "capital": "Los Cortijos"},
+            {"codigo": "06", "nombre": "Marcial Hernández", "capital": "Sur América"},
+            {"codigo": "07", "nombre": "José Domingo Rus", "capital": "Urbanización El Caujaro"}
+          ]
+        },
+        {
+          "codigo": "18",
+          "nombre": "Santa Rita",
+          "capital": "Santa Rita",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Santa Rita", "capital": "Santa Rita"},
+            {"codigo": "02", "nombre": "El Mene", "capital": "El Mene"},
+            {"codigo": "03", "nombre": "José Cenovio Urribarri", "capital": "Palmarejo"},
+            {"codigo": "04", "nombre": "Pedro Lucas Urribarri", "capital": "El Guanábano"}
+          ]
+        },
+        {
+          "codigo": "19",
+          "nombre": "Simón Bolívar",
+          "capital": "Tía Juana",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Manuel Manrique", "capital": "Tía Juana"},
+            {"codigo": "02", "nombre": "Rafael María Baralt", "capital": "San Isidro"},
+            {"codigo": "03", "nombre": "Rafael Urdaneta", "capital": "Sabana de La Plata"}
+          ]
+        },
+        {
+          "codigo": "20",
+          "nombre": "Sucre",
+          "capital": "Bobures",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Bobures", "capital": "Bobures"},
+            {"codigo": "02", "nombre": "El Batey", "capital": "El Batey"},
+            {"codigo": "03", "nombre": "Gibraltar", "capital": "Gibraltar"},
+            {"codigo": "04", "nombre": "Heras", "capital": "San Antonio"},
+            {"codigo": "05", "nombre": "Monseñor Arturo Celestino Álvarez", "capital": "Santa María"},
+            {"codigo": "06", "nombre": "Rómulo Gallegos", "capital": "Caja Seca"}
+          ]
+        },
+        {
+          "codigo": "21",
+          "nombre": "Valmore Rodríguez",
+          "capital": "Bachaquero",
+          "parroquias": [
+            {"codigo": "01", "nombre": "La Victoria", "capital": "Bachaquero"},
+            {"codigo": "02", "nombre": "Rafael Urdaneta", "capital": "Bachaquero"},
+            {"codigo": "03", "nombre": "Raúl Cuenca", "capital": "El Corozo"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "24",
+      "nombre": "La Guaira",
+      "capital": "La Guaira",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Vargas",
+          "capital": "La Guaira",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Caraballeda", "capital": "Caraballeda"},
+            {"codigo": "02", "nombre": "Carayaca", "capital": "Carayaca"},
+            {"codigo": "03", "nombre": "Caruao", "capital": "La Sabana"},
+            {"codigo": "04", "nombre": "Catia La Mar", "capital": "Catia La Mar"},
+            {"codigo": "05", "nombre": "El Junko", "capital": "El Junko"},
+            {"codigo": "06", "nombre": "La Guaira", "capital": "La Guaira"},
+            {"codigo": "07", "nombre": "Macuto", "capital": "Macuto"},
+            {"codigo": "08", "nombre": "Maiquetía", "capital": "Maiquetía"},
+            {"codigo": "09", "nombre": "Naiguatá", "capital": "Naiguatá"},
+            {"codigo": "10", "nombre": "Urimare", "capital": "Catia La Mar"},
+            {"codigo": "11", "nombre": "Carlos Soublette", "capital": "Maiquetía"}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "25",
+      "nombre": "Dependencias Federales",
+      "capital": "",
+      "municipios": [
+        {
+          "codigo": "01",
+          "nombre": "Dependencia Federales",
+          "capital": "",
+          "parroquias": [
+            {"codigo": "01", "nombre": "Gran Roque", "capital": "Gran Roque"},
+            {"codigo": "02", "nombre": "Los Testigos", "capital": "Los Testigos"},
+            {"codigo": "03", "nombre": "Chimanas", "capital": "Chimanas"}
+          ]
+        }
+      ]
+    }
+  ]
+}
